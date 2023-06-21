@@ -1,295 +1,122 @@
 
 ***
 
-# <projectName>
+# [Takeout Tuesdays](#Takeout-Tuesdays)
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+Takeout Tuesdays is a personal event of mine, where data takeout is prioritized once a week on Tuesday. This tradition started for me on 2023, Tuesday, June 6th. You can adopt the tradition as well if you want.
 
-# By:
+This repository is for documenting the event, and the history of my commitment towards it.
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
-### Top
-
-# `README.md`
+| **Redirect:** | [:octocat: `Takeout Tuesday`](https://github.com/seanpm2001/Takeout-Tuesdays/) |
+|---|---|
+| **Official:** | [:octocat: `Takeout Tuesdays`](https://github.com/seanpm2001/Takeout-Tuesdays/) |
 
 ***
 
-## Read this article in a different language
+## [History timeline](#History-timeline)
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+_The following is a historical timeline of every Takeout Tuesday I have done._
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+---
 
-***
+### [Takeout Tuesday 0](#Takeout-Tuesday-0)
 
-# Index
+- **Date:** `2023, Thursday, June 1st`
+- **Takeout targets:** `Twitter` ***{*** `@seanwallawalla` ***}***
+- **Note:** `This wasn't a Tuesday, but my success today inspired the idea to do this once per week.`
 
-[00.0 - Top](#Top)
+---
 
-> [00.1 - Title](#<projectName>)
+### [Takeout Tuesday 1](#Takeout-Tuesday-1)
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+- **Date:** `2023, Tuesday, June 6th`
+- **Takeout targets:** `Twitter:` ***{*** `@seanwallawalla2` ***}***
+- **Note:** `I have now successfully backed up 33.33% of my Twitter accounts.`
 
-> [00.3 - Index](#Index)
+---
 
-[01.0 - Description](#RepositoryName)
+### [Takeout Tuesday 2](#Takeout-Tuesday-2)
 
-[02.0 - About](#About)
+- **Date:** `2023, Tuesday, June 13th`
+- **Takeout targets:** `Twitter:` ***{*** `@seanwallawallaa` , `@seanwallawallab` ***}***
+- **Note:** `I have now successfully backed up 66.66% of my Twitter accounts.`
 
-[03.0 - Wiki](#Wiki)
+---
 
-[04.0 - Version history](#Version-history)
+### [Takeout Tuesday 3](#Takeout-Tuesday-3)
 
-[05.0 - Software status](#Software-status)
+- **Date:** `2023, Tuesday, June 20th`
+- **Takeout targets:** `Twitter:` ***{*** `@seanwallawallae` , `@seanwallawallal` ***}***
+- **Note:** `I have now successfully backed up 100.00% of my Twitter accounts. I had to do 2 per week, as to not raise suspicison.`
 
-[06.0 - Sponsor info](#Sponsor-info)
+---
 
-[07.0 - Contributers](#Contributers)
+### [Takeout Tuesday 4](#Takeout-Tuesday-4)
 
-[08.0 - Issues](#Issues)
+- **Date:** `2023, Tuesday, June 27th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
 
-> [08.1 - Current issues](#Current-issues)
+---
 
-> [08.2 - Past issues](#Past-issues)
+### [Takeout Tuesday 5](#Takeout-Tuesday-5)
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+- **Date:** `2023, Tuesday, July 4th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+---
 
-[09.0 - Resources](#Resources)
+### [Takeout Tuesday 6](#Takeout-Tuesday-6)
 
-[10.0 - Contributing](#Contributing)
+- **Date:** `2023, Tuesday, July 11th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
 
-[11.0 - About README](#About-README)
+---
 
-[12.0 - README Version history](#README-version-history)
+### [Takeout Tuesday 7](#Takeout-Tuesday-7)
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+- **Date:** `2023, Tuesday, July 18th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
 
-> [13.1 - End of file](#EOF)
+---
 
-***
+### [Takeout Tuesday 8](#Takeout-Tuesday-8)
 
-# <repoName>
-<repo_description>
+- **Date:** `2023, Tuesday, July 25th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
 
-***
+---
 
-## About
+### [Takeout Tuesday 9](#Takeout-Tuesday-9)
 
-See above. <extendedRepoDescription>
+- **Date:** `2023, Tuesday, August 1st`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
 
-***
+---
 
-## Wiki
+### [Takeout Tuesday 10](#Takeout-Tuesday-10)
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+- **Date:** `2023, Tuesday, August 8th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
 
 ***
 
-## Contributers
+## [Feeds](#Feeds)
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
+Data from Takeout Tuesdays is additionally used as a data source feed for my [:octocat: `The REAL Data Liberation Front (TRDLF)`](https://github.com/seanpm2001/The-REAL-Data-Liberation-Front/) project, specifically at [:octocat: `TRDLF Docs`](https://github.com/seanpm2001/The-REAL-Data-Liberation-Front_Docs/)
 
 ***
 
-## Issues
+# [File info](#File-info)
 
-### Current issues
+**File version:** `1 (2023, Tuesday, June 20th at 05:05 pm PST)`
 
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
+###### [EOF](#EOF)
 
 ***
