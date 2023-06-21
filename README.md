@@ -13,6 +13,12 @@ This repository is for documenting the event, and the history of my commitment t
 
 ***
 
+## [Rationale](#Rationale)
+
+It is a good idea to have a backup of your online accounts, as the servers that host them could terminate your account at any time, either randomly, due to a violation, or because the company ceases to exist. **Not backing up your online accounts is similar to not backing up your computer regularly**. I myself have had to learn this lesson the hard way far too many times (most recent: 2023, Tuesday, June 13th, when my laptop had a kernel panic and almost didn't turn back on, I made the mistake of not backing up for over 3 weeks. I am now preparing to backup my computer hourly because of this, I just have to wait for 5 USB drives to arrive)
+
+***
+
 ## [History timeline](#History-timeline)
 
 _The following is a historical timeline of every Takeout Tuesday I have done._
@@ -115,7 +121,56 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 # [File info](#File-info)
 
-**File version:** `1 (2023, Tuesday, June 20th at 05:05 pm PST)`
+**File version:** `2 (2023, Tuesday, June 20th at 10:35 pm PST)`
+
+***
+
+# [File history](#File-history)
+
+## Version 1 (2023, Tuesday, June 20th at 05:05 pm PST)
+
+- **This release was made by:?** `[@seanpm2001`](htts://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Started the file
+- [x] Added the `Title` section
+- [x] Added the `History timeline` section
+- - [x] Added the `Takeout Tuesday 0` subsection
+- - [x] Added the `Takeout Tuesday 1` subsection
+- - [x] Added the `Takeout Tuesday 2` subsection
+- - [x] Added the `Takeout Tuesday 3` subsection
+- - [x] Added the `Takeout Tuesday 4` subsection
+- - [x] Added the `Takeout Tuesday 5` subsection
+- - [x] Added the `Takeout Tuesday 6` subsection
+- - [x] Added the `Takeout Tuesday 7` subsection
+- - [x] Added the `Takeout Tuesday 8` subsection
+- - [x] Added the `Takeout Tuesday 9` subsection
+- - [x] Added the `Takeout Tuesday 10` subsection
+- [x] Added the `Feeds` section
+- [x] Added the `File info` section
+- [ ] No otber changes in version 1
+
+
+## Version 2 (2023, Tuesday, June 20th at 10:35 pm PST)
+
+- **This release was made by:?** `[@seanpm2001`](htts://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added the `Rationale` section
+- [x] Updated the `File info` section
+- - [x] Added an entry for version 1
+- - [x] Added an entry for version 2
+- [x] Added the `File history` section
+- [x] Added the Footer
+- [ ] No other changes in version 2
+
+***
+
+# [Footer](#Footer)
+
+You have reached the bottom of this page.
 
 ###### [EOF](#EOF)
 
