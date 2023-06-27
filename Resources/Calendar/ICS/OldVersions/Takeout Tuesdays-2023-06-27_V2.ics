@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+PRODID:-//Proton AG//WebCalendar 5.0.38.0.a//EN
+VERSION:2.0
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALNAME:Takeout Tuesdays
+X-WR-CALDESC:💽️ Takeout Tuesdays is an event where data takeout is pri
+ oritized once a week on Tuesday. https://github.com/seanpm2001/Takeout-Tues
+ days/
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20211207T194144Z
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:qZssmSHTgyvVtqoaTLAkLohHrJbx@proton.me
+DTSTAMP:20230627T202704Z
+DTSTART;VALUE=DATE:20230606
+RRULE:FREQ=WEEKLY
+SEQUENCE:1
+DESCRIPTION:Takeout Tuesdays\n\nToday is Takeout Tuesday\, please focus you
+ r efforts on data takeouts today. It doesn't take very long. It will take b
+ etween 1 minute and 30 minutes depending on what you do. Please note that d
+ ata takeout is not always instant\, and that some sites will make you wait 
+ to get your data (such as Twitter\, which waits 24 hours before starting to
+  do a data takeout) if needed\, start the data takeout the day before\, and
+  download the archive the next day.\n\nTips:\n\n- Add a secondary event to 
+ your calendar each week\, with plans on what site you want to take out\n- T
+ hink of all of the websites you use (that you have an account on) and make 
+ a list.\n- Make sure you have enough free space. Some site takeouts range f
+ rom a few kilobytes (FreeCodeCamp) to 9 megabytes or more (Twitter) while s
+ ome site takeouts can take significant amounts of storage (in dire situatio
+ ns\, sometimes even over 8 terabytes)\n\nAbout Takeout Tuesdays\n\n💽️ 
+ Takeout Tuesdays is an event where data takeout is prioritized once a week 
+ on Tuesday. https://github.com/seanpm2001/Takeout-Tuesdays/
+SUMMARY:Takeout Tuesdays
+STATUS:CONFIRMED
+BEGIN:VALARM
+SUMMARY:Takeout Tuesdays
+DESCRIPTION:Takeout Tuesdays
+ATTENDEE:mailto:seanpm2001-mailing-list@protonmail.com
+TRIGGER:-PT15H
+ACTION:EMAIL
+END:VALARM
+BEGIN:VALARM
+DESCRIPTION:Takeout Tuesdays
+TRIGGER:PT9H
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
