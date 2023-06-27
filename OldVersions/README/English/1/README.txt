@@ -1,4 +1,6 @@
 
+
+
 ***
 
 <img src="/Takeout-Tuesdays_1024pxIcon_V1_HighCompression.png" alt="Takeout Tuesdays logo" width="256" height="256">
@@ -16,6 +18,31 @@ This repository is for documenting the event, and the history of my commitment t
 | **Redirect:** | [:octocat: `Takeout Tuesday`](https://github.com/seanpm2001/Takeout-Tuesdays/) |
 |---|---|
 | **Official:** | [:octocat: `Takeout Tuesdays`](https://github.com/seanpm2001/Takeout-Tuesdays/) |
+
+| **📆️ Add this event to your calendar:** |
+|---|
+| [`Download *.ics file`](/Resources/Calendar/ICS/Download/V1/Takeout_Tuesdays.zip?raw=true")
+
+I couldn't get GitHub to just directly download the ICS file, so I had to zip the file to make it downloadable.
+
+<!-- Works, but misses my source code syntax rich text
+| <a href="/Resources/Calendar/ICS/Download/V1/Takeout_Tuesdays.zip?raw=true">Download .ics file</a> |
+!-->
+<!-- Doesn't work on GitHub
+| [`Download *.ics file`](/Resources/Calendar/ICS/Takeout%20Tuesdays.ics?raw=true)
+| <a href="/Resources/Calendar/ICS/Takeout%20Tuesdays.ics" download="/Resources/Calendar/ICS/Takeout%20Tuesdays.ics">Download .ics file</a> |
+!-->
+
+**Supported by:**
+
+- ProtonMail
+- Microsoft OutLook
+- Hotmail
+- Apple Mail
+- GMail
+- GNOME Calendar
+- Kontact
+- Other email services and programs that support `*.ics` files
 
 </details>
 
@@ -200,7 +227,29 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
-**File version:** `3 (2023, Tuesday, June 27th at 12:18 pm PST)`
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `4 (2023, Tuesday, June 27th at 01:13 pm PST)`
+
+**Line count (including blank lines and compiler line):** `360`
+
+**Word count:** `1,780`
+
+**Character count (including spaces):** `11,944`
+
+**Character count (excluding spaces):** `10,222`
+
+**Size (in bytes):** `11,949`
+
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 </details>
 
@@ -274,6 +323,22 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Corrected errors in the version 1 and 2 entries
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+## Version 4 (2023, Tuesday, June 27th at 01:13 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the lead section to include information on adding this as an event to your calendar
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
