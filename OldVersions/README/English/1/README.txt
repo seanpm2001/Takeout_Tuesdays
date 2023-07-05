@@ -21,7 +21,7 @@ This repository is for documenting the event, and the history of my commitment t
 
 | **📆️ Add this event to your calendar:** |
 |---|
-| [`Download *.ics file`](/Resources/Calendar/ICS/Download/V1/Takeout_Tuesdays.zip?raw=true")
+| [`Download *.ics file`](/Resources/Calendar/ICS/Download/V2/Takeout_Tuesdays_V2.zip?raw=true")
 
 I couldn't get GitHub to just directly download the ICS file, so I had to zip the file to make it downloadable.
 
@@ -142,8 +142,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, July 4th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Discord, Quora, Reddit` ***{*** `SeanWallaWalla` ***}***
+- **Note:** `I started to attempt data takeouts on 2023, Monday, July 3rd. It was difficult. I could not figure out the account information for my secondary GitHub account, so I will have to wait for my Pangolin to come back before trying again. In the meantime, I tried Quora, which outright refused, so I then tried Reddit. It is a little bit hostile, and it seems like data takeout is going to take a while, as I still have not received a response as of 2023, Wednesday July 5th. I also found that on the day I tried this was my 5th year anniversary of my Reddit account. How has it already been 5 years?`
 
 </details>
 
@@ -229,17 +229,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Tuesday, June 27th at 01:13 pm PST)`
+**File version:** `5 (2023, Wednesday, July 5th at 04:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `360`
+**Line count (including blank lines and compiler line):** `380`
 
-**Word count:** `1,780`
+**Word count:** `2,011`
 
-**Character count (including spaces):** `11,944`
+**Character count (including spaces):** `13,295`
 
-**Character count (excluding spaces):** `10,222`
+**Character count (excluding spaces):** `11,334`
 
-**Size (in bytes):** `11,949`
+**Size (in bytes):** `13,300`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -339,6 +339,26 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+## Version 5 (2023, Wednesday, July 5th at 04:45 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release is coming 1 day late, as I didn't have the time yesterday._
+
+> Changes:
+
+- [x] Updated the lead section to update information on adding this as an event to your calendar (new V2 link fixes the calendar)
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 5` subsection
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
