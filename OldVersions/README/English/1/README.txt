@@ -15,6 +15,8 @@ Takeout Tuesdays is a personal event of mine, where data takeout is prioritized 
 
 This repository is for documenting the event, and the history of my commitment towards it.
 
+I try to update this repository once per week. If I don't get to an update on Tuesday, I will either catch back up on Wednesday or Thursday, although this isn't ideal.
+
 | **Redirect:** | [:octocat: `Takeout Tuesday`](https://github.com/seanpm2001/Takeout-Tuesdays/) |
 |---|---|
 | **Official:** | [:octocat: `Takeout Tuesdays`](https://github.com/seanpm2001/Takeout-Tuesdays/) |
@@ -166,8 +168,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, July 18th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Tumblr` ***{*** `Seanwallawalla` ***}***
+- **Note:** `I started data takeout for my main Tumblr account on 2023, Monday, July 17th. Last weeks Discord takeout finished on Wednesday successfully. The Tumblr takeout has not yet finished, as of writing this on 2023, Tuesday, July 18th at 3:37 pm PST. I updated the Takeout Tuesday notes, and the TRDLF (The Real Data Liberation Front) compliance notes.`
 
 </details>
 
@@ -231,6 +233,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details>
 
+---
+
+### [Takeout Tuesday 13](#Takeout-Tuesday-13)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, August 29th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details>
+
+---
+
+### [Takeout Tuesday 14](#Takeout-Tuesday-14)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, September 5th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details>
+
 </details>
 
 ***
@@ -253,17 +279,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2023, Tuesday, July 11th a 05:00 pm PST)`
+**File version:** `7 (2023, Tuesday, July 18th a 03:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `424`
+**Line count (including blank lines and compiler line):** `470`
 
-**Word count:** `2,243`
+**Word count:** `2,501`
 
-**Character count (including spaces):** `14,837`
+**Character count (including spaces):** `16,531`
 
-**Character count (excluding spaces):** `12,639`
+**Character count (excluding spaces):** `14,070`
 
-**Size (in bytes):** `14,842`
+**Size (in bytes):** `16,536`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -281,7 +307,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 # [File history](#File-history)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section (file history)]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section (file history)]</b></p></summary>
 
 ## Version 1 (2023, Tuesday, June 20th at 05:05 pm PST)
 
@@ -403,6 +429,26 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
+
+</details>
+
+## Version 7 (2023, Tuesday, July 18th at 03:37 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 7` subsection
+- - [x] Added blank entries for Takeout Tuesday 13 and 14
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
 
 </details>
 
