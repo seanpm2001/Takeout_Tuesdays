@@ -1,6 +1,4 @@
 
-
-
 ***
 
 <img src="/Takeout-Tuesdays_1024pxIcon_V1_HighCompression.png" alt="Takeout Tuesdays logo" width="256" height="256">
@@ -180,8 +178,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, July 25th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Reddit` ***{*** `Seanwallawalla2` ***}***
+- **Note:** `I started data takeout for my second Reddit account on 2023, Tuesday, July 25th. None of the takeouts have completed by today, Tumblr and Reddit takeouts are still in process. This is the first week out of 8 where no data takeouts were ready by the time of Takeout Tuesday.`
 
 </details>
 
@@ -257,6 +255,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details>
 
+---
+
+### [Takeout Tuesday 15](#Takeout-Tuesday-15)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, September 13th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details>
+
+---
+
+### [Takeout Tuesday 16](#Takeout-Tuesday-16)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, September 20th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details>
+
 </details>
 
 ***
@@ -279,17 +301,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Tuesday, July 18th a 03:37 pm PST)`
+**File version:** `8 (2023, Tuesday, July 25th a 06:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `470`
+**Line count (including blank lines and compiler line):** `512`
 
-**Word count:** `2,501`
+**Word count:** `2,717`
 
-**Character count (including spaces):** `16,531`
+**Character count (including spaces):** `17,991`
 
-**Character count (excluding spaces):** `14,070`
+**Character count (excluding spaces):** `15,309`
 
-**Size (in bytes):** `16,536`
+**Size (in bytes):** `17,996`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -449,6 +471,26 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details>
+
+## Version 8 (2023, Tuesday, July 25th at 06:34 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 8` subsection
+- - [x] Added blank entries for Takeout Tuesday 15 and 16
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details>
 
