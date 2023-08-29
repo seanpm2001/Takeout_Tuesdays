@@ -82,9 +82,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Thursday, June 1st`
 - **Takeout targets:** `Twitter` ***{*** `@seanwallawalla` ***}***
-- **Note:** `This wasn't a Tuesday, but my success today inspired the idea to do this once per week.`
+- **Notes:** `This wasn't a Tuesday, but my success today inspired the idea to do this once per week.`
 
-</details>
+</details> <!-- End of TT00 !-->
 
 ---
 
@@ -94,9 +94,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, June 6th`
 - **Takeout targets:** `Twitter:` ***{*** `@seanwallawalla2` ***}***
-- **Note:** `I have now successfully backed up 33.33% of my Twitter accounts.`
+- **Notes:** `I have now successfully backed up 33.33% of my Twitter accounts.`
 
-</details>
+</details> <!-- End of TT01 !-->
 
 ---
 
@@ -106,9 +106,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, June 13th`
 - **Takeout targets:** `Twitter:` ***{*** `@seanwallawallaa` , `@seanwallawallab` ***}***
-- **Note:** `I have now successfully backed up 66.66% of my Twitter accounts.`
+- **Notes:** `I have now successfully backed up 66.66% of my Twitter accounts.`
 
-</details>
+</details> <!-- End of TT02 !-->
 
 ---
 
@@ -118,9 +118,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, June 20th`
 - **Takeout targets:** `Twitter:` ***{*** `@seanwallawallae` , `@seanwallawallal` ***}***
-- **Note:** `I have now successfully backed up 100.00% of my Twitter accounts. I had to do 2 per week, as to not raise suspicison.`
+- **Notes:** `I have now successfully backed up 100.00% of my Twitter accounts. I had to do 2 per week, as to not raise suspicison.`
 
-</details>
+</details> <!-- End of TT03 !-->
 
 ---
 
@@ -131,9 +131,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Planned date:** `2023, Tuesday, June 27th`
 - **Actual date:** `2023, Monday, June 26th`
 - **Takeout targets:** `Discord` ***{*** `SeanWallaWalla` ***}***
-- **Note:** `I accidentally started this takeout over 8 days ago, and then finished the takeout on Monday, as I prepared the archive, but forgot to wait until the next day. The data is pretty small compared to Twitter, and not everything was saved (some images were not saved) but I now have a backup of my Discord servers, which is a relief. I didn't post too many images on Discord. I just have to takeout my other Discord account next week.`
+- **Notes:** `I accidentally started this takeout over 8 days ago, and then finished the takeout on Monday, as I prepared the archive, but forgot to wait until the next day. The data is pretty small compared to Twitter, and not everything was saved (some images were not saved) but I now have a backup of my Discord servers, which is a relief. I didn't post too many images on Discord. I just have to takeout my other Discord account next week.`
 
-</details>
+</details> <!-- End of TT04 !-->
 
 ---
 
@@ -143,9 +143,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, July 4th`
 - **Takeout targets:** `Discord, Quora, Reddit` ***{*** `SeanWallaWalla` ***}***
-- **Note:** `I started to attempt data takeouts on 2023, Monday, July 3rd. It was difficult. I could not figure out the account information for my secondary GitHub account, so I will have to wait for my Pangolin to come back before trying again. In the meantime, I tried Quora, which outright refused, so I then tried Reddit. It is a little bit hostile, and it seems like data takeout is going to take a while, as I still have not received a response as of 2023, Wednesday July 5th. I also found that on the day I tried this was my 5th year anniversary of my Reddit account. How has it already been 5 years?`
+- **Notes:** `I started to attempt data takeouts on 2023, Monday, July 3rd. It was difficult. I could not figure out the account information for my secondary GitHub account, so I will have to wait for my Pangolin to come back before trying again. In the meantime, I tried Quora, which outright refused, so I then tried Reddit. It is a little bit hostile, and it seems like data takeout is going to take a while, as I still have not received a response as of 2023, Wednesday July 5th. I also found that on the day I tried this was my 5th year anniversary of my Reddit account. How has it already been 5 years?`
 
-</details>
+</details> <!-- End of TT05 !-->
 
 ---
 
@@ -155,9 +155,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, July 11th`
 - **Takeout targets:** `Discord` ***{*** `Seanpm2001` ***}***
-- **Note:** `I started data takeout for my second Discord account on 2023, Monday, July 10th, as I have my laptop back now. Data takeout didn't finish by 2023, Tuesday, July 11th, but my Reddit takeout from 8 days ago finished at around 4:00 pm today. It was a disappointment. I updated the Takeout Tuesday notes, and the TRDLF (The Real Data Liberation Front) compliance notes.`
+- **Notes:** `I started data takeout for my second Discord account on 2023, Monday, July 10th, as I have my laptop back now. Data takeout didn't finish by 2023, Tuesday, July 11th, but my Reddit takeout from 8 days ago finished at around 4:00 pm today. It was a disappointment. I updated the Takeout Tuesday notes, and the TRDLF (The Real Data Liberation Front) compliance notes.`
 
-</details>
+</details> <!-- End of TT06 !-->
 
 ---
 
@@ -167,9 +167,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, July 18th`
 - **Takeout targets:** `Tumblr` ***{*** `Seanwallawalla` ***}***
-- **Note:** `I started data takeout for my main Tumblr account on 2023, Monday, July 17th. Last weeks Discord takeout finished on Wednesday successfully. The Tumblr takeout has not yet finished, as of writing this on 2023, Tuesday, July 18th at 3:37 pm PST. I updated the Takeout Tuesday notes, and the TRDLF (The Real Data Liberation Front) compliance notes.`
+- **Notes:** `I started data takeout for my main Tumblr account on 2023, Monday, July 17th. Last weeks Discord takeout finished on Wednesday successfully. The Tumblr takeout has not yet finished, as of writing this on 2023, Tuesday, July 18th at 3:37 pm PST. I updated the Takeout Tuesday notes, and the TRDLF (The Real Data Liberation Front) compliance notes.`
 
-</details>
+</details> <!-- End of TT07 !-->
 
 ---
 
@@ -179,9 +179,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, July 25th`
 - **Takeout targets:** `Reddit` ***{*** `Seanwallawalla2` ***}***
-- **Note:** `I started data takeout for my second Reddit account on 2023, Tuesday, July 25th. None of the takeouts have completed by today, Tumblr and Reddit takeouts are still in process. This is the first week out of 8 where no data takeouts were ready by the time of Takeout Tuesday.`
+- **Notes:** `I started data takeout for my second Reddit account on 2023, Tuesday, July 25th. None of the takeouts have completed by today, Tumblr and Reddit takeouts are still in process. This is the first week out of 8 where no data takeouts were ready by the time of Takeout Tuesday.`
 
-</details>
+</details> <!-- End of TT08 !-->
 
 ---
 
@@ -191,9 +191,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, August 1st`
 - **Takeout targets:** `ProtonMail` ***{*** `Seanpm2001` ***}***
-- **Note:** `I did a more laid back data takeout this week, backing up my ProtonMail inbox. The Reddit takeout is still ongoing, while the Tumblr takeout finished, with bad results.`
+- **Notes:** `I did a more laid back data takeout this week, backing up my ProtonMail inbox. The Reddit takeout is still ongoing, while the Tumblr takeout finished, with bad results.`
 
-</details>
+</details> <!-- End of TT09 !-->
 
 ---
 
@@ -204,9 +204,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Date:** `2023, Tuesday, August 8th`
 - **Actual date:** `2023, Monday, August 7th`
 - **Takeout targets:** `Instagram` ***{*** `SeanWallaWalla` ***}***
-- **Note:** `I started a data takeout of my Instagram account the day before Tuesday. I was expecting it to take time, like the other services, but it surprised me, and finished completely within 20 minutes. I will get to my old Facebook account eventually.`
+- **Notes:** `I started a data takeout of my Instagram account the day before Tuesday. I was expecting it to take time, like the other services, but it surprised me, and finished completely within 20 minutes. I will get to my old Facebook account eventually.`
 
-</details>
+</details> <!-- End of TT10 !-->
 
 ---
 
@@ -217,9 +217,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Date:** `2023, Tuesday, August 15th`
 - **Actual date:** `2023, Monday, August 14th`
 - **Takeout targets:** `Reddit` ***{*** `Crikketmeme2001` ***}***
-- **Note:** `I started a data takeout of my Reddit account the day before Tuesday. I was expecting it to take time, like it did last time, but it actually went way faster than expected, finishing a few hours before I went to bed. It was an account I made for a family member that never ended up being used that much at all.`
+- **Notes:** `I started a data takeout of my Reddit account the day before Tuesday. I was expecting it to take time, like it did last time, but it actually went way faster than expected, finishing a few hours before I went to bed. It was an account I made for a family member that never ended up being used that much at all.`
 
-</details>
+</details> <!-- End of TT11 !-->
 
 ---
 
@@ -229,9 +229,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, August 22nd`
 - **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
-- **Note:** `Data takeout was done on the right day today. I decided that going forward, I won't have it go on Monday or earlier, even if it is expected to take past Tuesday. I did a takeout of my Mastodon account today, I was going to do a different site, but decided it would be too much work. I am getting interested in further usage of Mastodon, but I need to free up some time first. I did the data takeout today regardless.`
+- **Notes:** `Data takeout was done on the right day today. I decided that going forward, I won't have it go on Monday or earlier, even if it is expected to take past Tuesday. I did a takeout of my Mastodon account today, I was going to do a different site, but decided it would be too much work. I am getting interested in further usage of Mastodon, but I need to free up some time first. I did the data takeout today regardless.`
 
-</details>
+</details> <!-- End of TT12 !-->
 
 ---
 
@@ -240,10 +240,10 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, August 29th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** `Archive.org (The Internet Archive)` ***{*** `Androidx64` ***}***
+- **Notes:** `Data takeout was done on the right day today. I decided to go for multiple takeouts in one week, but failed, as archive.org doesn't seem to allow takeout. I have put some extra work into setting up my Mastodon account, but have to wait until a little after 7:00 pm today before I can request another archive. I also decided not to update the TRDLF (The REAL Data Liberation Front) project today, with plans to instead work on it tomorrow.`
 
-</details>
+</details> <!-- End of TT13 !-->
 
 ---
 
@@ -255,7 +255,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT14 !-->
 
 ---
 
@@ -267,7 +267,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT15 !-->
 
 ---
 
@@ -279,7 +279,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT16 !-->
 
 ---
 
@@ -291,7 +291,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT17 !-->
 
 ---
 
@@ -303,7 +303,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT18 !-->
 
 ---
 
@@ -315,7 +315,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT19 !-->
 
 ---
 
@@ -327,7 +327,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT20 !-->
+
 ---
 
 ### [Takeout Tuesday 21](#Takeout-Tuesday-21)
@@ -338,7 +339,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT21 !-->
+
 ---
 
 ### [Takeout Tuesday 22](#Takeout-Tuesday-22)
@@ -349,7 +351,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT22 !-->
 
 ---
 
@@ -361,7 +363,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT23 !-->
+
 ---
 
 ### [Takeout Tuesday 24](#Takeout-Tuesday-24)
@@ -372,9 +375,33 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details>
+</details> <!-- End of TT24 !-->
 
-</details>
+---
+
+### [Takeout Tuesday 25](#Takeout-Tuesday-25)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, November 21st`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT25 !-->
+
+---
+
+### [Takeout Tuesday 26](#Takeout-Tuesday-26)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, November 22nd`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT26 !-->
+
+</details> <!-- End of TT Timeline !-->
 
 ***
 
@@ -396,17 +423,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2023, Tuesday, August 22nd at 05:42 pm PST)`
+**File version:** `13 (2023, Tuesday, August 29th at 04:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `687`
+**Line count (including blank lines and compiler line):** `734`
 
-**Word count:** `3,609`
+**Word count:** `3,951`
 
-**Character count (including spaces):** `23,972`
+**Character count (including spaces):** `26,321`
 
-**Character count (excluding spaces):** `20,374`
+**Character count (excluding spaces):** `22,319`
 
-**Size (in bytes):** `23,977`
+**Size (in bytes):** `26,326`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -666,6 +693,26 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
+
+</details>
+
+## Version 13 (2023, Tuesday, August 29th at 04:42 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 12` subsection
+- - [x] Added blank entries for Takeout Tuesday 25 and 26
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
 
 </details>
 
