@@ -252,8 +252,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, September 5th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Actual date:** `2023, Friday, September 1st`
+- **Takeout targets:** `Facebook` ***{*** `SeanWallaWalla3` ***}*** `Google Photos` ***{*** `SeanWallaWalla` ***}***
+- **Note:** `I didn't completely abide by the Tuesday target, but I still did a backup this week, so it somewhat counts. On 2023, Friday, September 1st, I archived my old Facebook account (not my old, old one, which I still cannot find) as I found that it somehow still existed. It was a quick backup. Later on, I went to do a data takeout of Google Photos, thinking it would be a quick backup of less than 10 gigabytes. This ended up actually taking 5 days and counting, 4 days to download all of the data, and 1 day (and still counting) on extracting and organizing the data. It ended up being nearly 540 gigabytes in size, as for some reason, Google backed up almost every photo and video on every device I had signed into, which is creepy, and pretty excessive. Nonetheless, it was still helpful, as it retained photos from as far back as the 1980s/1990s (from before I was born) that were on some of my devices at certain points in time. I am now one step closer to being able to DeGoogle. In the process, I had to use Windows 10 and Windows 11 on 2 different computers, as Ubuntu wanted to use up RAM for every byte I downloaded, which caused it to run out of both primary and secondary memory too quickly (I was also low on disk space) After a few days, I have come to a conclusion that Windows is unfortunately still more memory efficient than Ubuntu, and this is a serious problem that needs to be addressed, as my laptop has 32 gigabytes of RAM, and was still outperformed in this one aspect by something 8x less (yes, I know about` [linuxatemyram](https://www.linuxatemyram.com/) `unfortunately, the OOM killer will still come for my browser if I try to download too much, meaning there is still a problem, as it starts fluctuating SWAP usage) I am not sure whether this applies to other Linux distributions. What I did with 4 gigabytes of RAM would have taken Ubuntu hundreds of gigabytes of RAM.`
 
 </details> <!-- End of TT14 !-->
 
@@ -401,6 +402,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT26 !-->
 
+---
+
+### [Takeout Tuesday 27](#Takeout-Tuesday-27)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, November 29th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT27 !-->
+
+---
+
+### [Takeout Tuesday 28](#Takeout-Tuesday-28)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, December 5th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT28 !-->
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -423,17 +448,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2023, Tuesday, August 29th at 04:42 pm PST)`
+**File version:** `14 (2023, Tuesday, September 5th at 09:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `734`
+**Line count (including blank lines and compiler line):** `780`
 
-**Word count:** `3,951`
+**Word count:** `4,511`
 
-**Character count (including spaces):** `26,321`
+**Character count (including spaces):** `29,688`
 
-**Character count (excluding spaces):** `22,319`
+**Character count (excluding spaces):** `25,116`
 
-**Size (in bytes):** `26,326`
+**Size (in bytes):** `29,693`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -707,12 +732,33 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 > Changes:
 
 - [x] Updated the `History timeline` section
-- - [x] Updated the `Takeout Tuesday 12` subsection
+- - [x] Updated the `Takeout Tuesday 13` subsection
 - - [x] Added blank entries for Takeout Tuesday 25 and 26
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 13
 - [ ] No other changes in version 13
+
+</details>
+
+## Version 14 (2023, Tuesday, September 5th at 09:53 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data. It came late in the day, I struggled to put this update out at all due to schedule issues._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 14` subsection
+- - [x] Added blank entries for Takeout Tuesday 27 and 28
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Updated the entry for version 13
+- - [x] Added an entry for version 14
+- [ ] No other changes in version 14
 
 </details>
 
