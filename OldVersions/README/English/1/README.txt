@@ -265,8 +265,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, September 13th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Google Play Books` ***{*** `SeanWallaWalla` ***}***
+- **Note:** `I am starting to slowly backup my main Google account, so that it is closer to deletion. I didn't want to make the same mistake as last week, as that took a lot of time and hard drive space, so I went for something I knew would be light. For some reason, Google only shows 50 services available for takeout, and I know they have way more than this (since dead services were included in this count) Google Play Books wasn't a very exciting data takeout, as it only exported the titles and links to the books, and not the actual book data. It was also under 400 kilobytes in total. I hope to do something more interesting next week.`
 
 </details> <!-- End of TT15 !-->
 
@@ -426,6 +426,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT28 !-->
 
+---
+
+### [Takeout Tuesday 29](#Takeout-Tuesday-29)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, December 12th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT29 !-->
+
+---
+
+### [Takeout Tuesday 30](#Takeout-Tuesday-30)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2023, Tuesday, December 19th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT30 !-->
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -448,17 +472,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2023, Tuesday, September 5th at 09:53 pm PST)`
+**File version:** `15 (2023, Tuesday, September 12th at 07:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `780`
+**Line count (including blank lines and compiler line):** `824`
 
-**Word count:** `4,511`
+**Word count:** `4,814`
 
-**Character count (including spaces):** `29,688`
+**Character count (including spaces):** `31,603`
 
-**Character count (excluding spaces):** `25,116`
+**Character count (excluding spaces):** `26,720`
 
-**Size (in bytes):** `29,693`
+**Size (in bytes):** `31,608`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -759,6 +783,26 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Updated the entry for version 13
 - - [x] Added an entry for version 14
 - [ ] No other changes in version 14
+
+</details>
+
+## Version 15 (2023, Tuesday, September 12th at 07:11 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data. It wasn't a very exciting update._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 15` subsection
+- - [x] Added blank entries for Takeout Tuesday 29 and 30
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
 
 </details>
 
