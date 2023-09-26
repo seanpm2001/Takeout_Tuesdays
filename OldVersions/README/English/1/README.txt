@@ -289,8 +289,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, September 27th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Google Play Games Services` ***{*** `SeanWallaWalla` ***}***
+- **Note:** `I went after Google product takeouts yet again this week. I decided to takeout Google Play Games Services data, as the description hinted at game data. It does not actually include game save data. It was interesting to see my achievements, and how the achievement system works though. It was a small takeout, taking up about 1 megabyte when uncompressed (535.0 kilobytes when compressed) I also hope to update the TRDLF project soon, as it has been without an update for over a month now. I just need to find the time and motivation to update it again.`
 
 </details> <!-- End of TT17 !-->
 
@@ -474,6 +474,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT32 !-->
 
+---
+
+### [Takeout Tuesday 33](#Takeout-Tuesday-33)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, January 9th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT33 !-->
+
+---
+
+### [Takeout Tuesday 34](#Takeout-Tuesday-34)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, January 16th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT34 !-->
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -496,17 +520,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2023, Tuesday, September 19th at 08:12 pm PST)`
+**File version:** `17 (2023, Tuesday, September 26th at 03:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `868`
+**Line count (including blank lines and compiler line):** `912`
 
-**Word count:** `5,049`
+**Word count:** `5,338`
 
-**Character count (including spaces):** `33,171`
+**Character count (including spaces):** `35,049`
 
-**Character count (excluding spaces):** `28,044`
+**Character count (excluding spaces):** `29,624`
 
-**Size (in bytes):** `33,176`
+**Size (in bytes):** `35,054`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -847,6 +871,26 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 16
 - [ ] No other changes in version 16
+
+</details>
+
+## Version 17 (2023, Tuesday, September 26th at 03:05 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data. It wasn't a very exciting update, but it was much earlier in the day._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 17` subsection
+- - [x] Added blank entries for Takeout Tuesday 33 and 34
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 17
+- [ ] No other changes in version 17
 
 </details>
 
