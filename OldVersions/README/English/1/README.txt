@@ -264,7 +264,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, September 13th`
+- **Date:** `2023, Tuesday, September 12th`
 - **Takeout targets:** `Google Play Books` ***{*** `SeanWallaWalla` ***}***
 - **Note:** `I am starting to slowly backup my main Google account, so that it is closer to deletion. I didn't want to make the same mistake as last week, as that took a lot of time and hard drive space, so I went for something I knew would be light. For some reason, Google only shows 50 services available for takeout, and I know they have way more than this (since dead services were included in this count) Google Play Books wasn't a very exciting data takeout, as it only exported the titles and links to the books, and not the actual book data. It was also under 400 kilobytes in total. I hope to do something more interesting next week.`
 
@@ -276,7 +276,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, September 20th`
+- **Date:** `2023, Tuesday, September 19th`
 - **Takeout targets:** `Google Hangouts` ***{*** `SeanWallaWalla` ***}***
 - **Note:** `I again went for Google products this week. This week wasn't very exciting either, as Google Hangouts no longer exists, and message data was not archived (only media posts) I have been struggling hard with time today, I had to get this update out on time.`
 
@@ -288,7 +288,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, September 27th`
+- **Date:** `2023, Tuesday, September 26th`
 - **Takeout targets:** `Google Play Games Services` ***{*** `SeanWallaWalla` ***}***
 - **Note:** `I went after Google product takeouts yet again this week. I decided to takeout Google Play Games Services data, as the description hinted at game data. It does not actually include game save data. It was interesting to see my achievements, and how the achievement system works though. It was a small takeout, taking up about 1 megabyte when uncompressed (535.0 kilobytes when compressed) I also hope to update the TRDLF project soon, as it has been without an update for over a month now. I just need to find the time and motivation to update it again.`
 
@@ -300,9 +300,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, October 4th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Date:** `2023, Tuesday, October 3rd`
+- **Takeout targets:** `Google Profile` ***{*** `SeanWallaWalla` ***}***
+- **Note:** `I am still picking off Google services one by one, the one today was just labeled "profile" and contained a very tiny amount of new data. I am just killing time in preparation for a YouTube takeout, and I needed something to takeout for this week.`
 
 </details> <!-- End of TT18 !-->
 
@@ -498,6 +498,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT34 !-->
 
+---
+
+### [Takeout Tuesday 35](#Takeout-Tuesday-35)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, January 23rd`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT35 !-->
+
+---
+
+### [Takeout Tuesday 36](#Takeout-Tuesday-36)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, January 30th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT36 !-->
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -520,17 +544,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2023, Tuesday, September 26th at 03:05 pm PST)`
+**File version:** `18 (2023, Tuesday, October 3rd at 06:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `912`
+**Line count (including blank lines and compiler line):** `956`
 
-**Word count:** `5,338`
+**Word count:** `5,581`
 
-**Character count (including spaces):** `35,049`
+**Character count (including spaces):** `36,646`
 
-**Character count (excluding spaces):** `29,624`
+**Character count (excluding spaces):** `30,967`
 
-**Size (in bytes):** `35,054`
+**Size (in bytes):** `36,651`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -891,6 +915,26 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
+
+</details>
+
+## Version 18 (2023, Tuesday, October 3rd at 06:20 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data. This project has lost a lot of energy, I hope to return some energy to it soon. For now, I am just getting by._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 18` subsection
+- - [x] Added blank entries for Takeout Tuesday 35 and 36
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 18
+- [ ] No other changes in version 18
 
 </details>
 
