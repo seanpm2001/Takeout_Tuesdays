@@ -312,9 +312,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, October 11th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Date:** `2023, Tuesday, October 10th`
+- **Takeout targets:** `Google Account Profile` ***{*** `SeanWallaWalla` ***}***
+- **Note:** `I am still picking off Google services one by one, the one today was just labeled "Google Account" and contained a very tiny amount of new data. I am just killing time in preparation for a YouTube takeout, and I needed something to takeout for this week. I was considering doing a Mastodon takeout, but decided to do this instead. I don't see much use in this data.`
 
 </details> <!-- End of TT19 !-->
 
@@ -324,7 +324,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, October 18th`
+- **Date:** `2023, Tuesday, October 17th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -336,7 +336,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, October 25th`
+- **Date:** `2023, Tuesday, October 24th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -522,6 +522,28 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT36 !-->
 
+### [Takeout Tuesday 37](#Takeout-Tuesday-37)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, February 6th `
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT37 !-->
+
+---
+
+### [Takeout Tuesday 38](#Takeout-Tuesday-38)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, February 13th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT38 !-->
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -544,17 +566,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2023, Tuesday, October 3rd at 06:20 pm PST)`
+**File version:** `19 (2023, Tuesday, October 10th at 06:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `956`
+**Line count (including blank lines and compiler line):** `0,998`
 
-**Word count:** `5,581`
+**Word count:** `5,849`
 
-**Character count (including spaces):** `36,646`
+**Character count (including spaces):** `38,373`
 
-**Character count (excluding spaces):** `30,967`
+**Character count (excluding spaces):** `32,418`
 
-**Size (in bytes):** `36,651`
+**Size (in bytes):** `38,378`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -935,6 +957,26 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
+
+</details>
+
+## Version 19 (2023, Tuesday, October 10th at 06:16 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data. This project has lost a lot of energy, I hope to return some energy to it soon. For now, I am just getting by._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `Takeout Tuesday 19` subsection
+- - [x] Added blank entries for Takeout Tuesday 37 and 38
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
 
 </details>
 
