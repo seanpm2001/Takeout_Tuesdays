@@ -74,6 +74,44 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (history timeline)]</b></p></summary>
 
+### [History overview](#History-overview)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+#### [Target summary](#Target-summary)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the target summary table]</b></p></summary>
+
+| Week | Target |
+|---|---|
+| Week 0 | `Twitter` ***{*** `@seanwallawalla` ***}*** |
+| Week 1 | `Twitter:` ***{*** `@seanwallawalla2` ***}*** |
+| Week 2 | `Twitter:` ***{*** `@seanwallawallaa` , `@seanwallawallab` ***}*** |
+| Week 3 | `Twitter:` ***{*** `@seanwallawallae` , `@seanwallawallal` ***}*** |
+| Week 4 | `Discord` ***{*** `SeanWallaWalla` ***}*** |
+| Week 5 | `Discord, Quora, Reddit` ***{*** `SeanWallaWalla` ***}*** |
+| Week 6 | `Discord` ***{*** `Seanpm2001` ***}*** |
+| Week 7 | `Tumblr` ***{*** `Seanwallawalla` ***}*** |
+| Week 8 | `Reddit` ***{*** `Seanwallawalla2` ***}*** |
+| Week 9 | `ProtonMail` ***{*** `Seanpm2001` ***}*** |
+| Week 10 | `Instagram` ***{*** `SeanWallaWalla` ***}*** |
+| Week 11 | `Reddit` ***{*** `Crikketmeme2001` ***}*** |
+| Week 12 | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
+| Week 13 | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** `Archive.org (The Internet Archive)` ***{*** `Androidx64` ***}*** | 
+| Week 14 | `Facebook` ***{*** `SeanWallaWalla3` ***}*** `Google Photos` ***{*** `SeanWallaWalla` ***}*** |
+| Week 15 | `Google Play Books` ***{*** `SeanWallaWalla` ***}*** |
+| Week 16 | `Google Hangouts` ***{*** `SeanWallaWalla` ***}*** |
+| Week 17 | `Google Play Games Services` ***{*** `SeanWallaWalla` ***}*** |
+| Week 18 | `Google Profile` ***{*** `SeanWallaWalla` ***}*** |
+| Week 19 | `Google Account Profile` ***{*** `SeanWallaWalla` ***}*** |
+| Week 20 | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
+
+</details>
+
+---
+
+</details>
+
 ---
 
 ### [Takeout Tuesday 0](#Takeout-Tuesday-0)
@@ -325,8 +363,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, October 17th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I didn't want to do another Google takeout this week, so I decided to do a second takeout of my Mastodon account, as per the backup process. It is still formatted the same, but there is newer data.`
 
 </details> <!-- End of TT20 !-->
 
@@ -546,6 +584,34 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT Timeline !-->
 
+---
+
+### [Takeout Tuesday 39](#Takeout-Tuesday-39)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, February 20th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT39 !-->
+
+</details> <!-- End of TT Timeline !-->
+
+---
+
+### [Takeout Tuesday 40](#Takeout-Tuesday-40)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, February 27th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT40 !-->
+
+</details> <!-- End of TT Timeline !-->
+
 ***
 
 ## [Feeds](#Feeds)
@@ -566,17 +632,17 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2023, Tuesday, October 10th at 06:16 pm PST)`
+**File version:** `20 (2023, Tuesday, October 17th at 04:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,998`
+**Line count (including blank lines and compiler line):** `1,086`
 
-**Word count:** `5,849`
+**Word count:** `06,273`
 
-**Character count (including spaces):** `38,373`
+**Character count (including spaces):** `41,961`
 
-**Character count (excluding spaces):** `32,418`
+**Character count (excluding spaces):** `35,466`
 
-**Size (in bytes):** `38,378`
+**Size (in bytes):** `41,966`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -977,6 +1043,28 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
+
+</details>
+
+## Version 20 (2023, Tuesday, October 17th at 04:49 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data. This project has lost a lot of energy, I hope to return some energy to it eventually. For now, I am just getting by. A new section was added today._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Added the `History overview` subsection
+- - - [x] Added the `Target summary` sub-subsection
+- - [x] Updated the `Takeout Tuesday 20` subsection
+- - [x] Added blank entries for Takeout Tuesday 39 and 40
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 20
+- [ ] No other changes in version 20
 
 </details>
 
