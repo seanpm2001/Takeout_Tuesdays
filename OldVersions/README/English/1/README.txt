@@ -106,7 +106,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 19`](#Takeout-Tuesday-19) | `Google Account Profile` ***{*** `SeanWallaWalla` ***}*** |
 | [`Week 20`](#Takeout-Tuesday-20) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 21`](#Takeout-Tuesday-21) | `Google Play Movies & TV` & `Android Device Configuration Service` ***{*** `SeanWallaWalla` ***}*** |
-| [`Week 22`](#Takeout-Tuesday-22) | `TBD` |
+| [`Week 22`](#Takeout-Tuesday-22) | `Google Chrome` ***{*** `SeanWallaWalla` ***}*** |
 | [`Week 23`](#Takeout-Tuesday-23) | `TBD` |
 | [`Week 24`](#Takeout-Tuesday-24) | `TBD` |
 | [`Week 25`](#Takeout-Tuesday-25) | `TBD` |
@@ -127,6 +127,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 40`](#Takeout-Tuesday-40) | `TBD` |
 | [`Week 41`](#Takeout-Tuesday-41) | `TBD` |
 | [`Week 42`](#Takeout-Tuesday-42) | `TBD` |
+| [`Week 43`](#Takeout-Tuesday-41) | `TBD` |
+| [`Week 44`](#Takeout-Tuesday-42) | `TBD` |
 
 </details>
 
@@ -409,8 +411,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, October 31st`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Google Chrome` ***{*** `SeanWallaWalla` ***}***
+- **Note:** `I almost forgot to do a takeout today, remembering to do so around 9:30 pm. I decided to backup Google Chrome data to see if anything was there from 4+ years ago. Of course there was, and it picked up way more than it should have (it is Google, of course) This data is additionally coming in useful for a new project I recently started earlier today (making an index of all websites visited)`
 
 </details> <!-- End of TT22 !-->
 
@@ -582,6 +584,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT36 !-->
 
+---
+
 ### [Takeout Tuesday 37](#Takeout-Tuesday-37)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
@@ -604,8 +608,6 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT38 !-->
 
-</details> <!-- End of TT Timeline !-->
-
 ---
 
 ### [Takeout Tuesday 39](#Takeout-Tuesday-39)
@@ -618,8 +620,6 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT39 !-->
 
-</details> <!-- End of TT Timeline !-->
-
 ---
 
 ### [Takeout Tuesday 40](#Takeout-Tuesday-40)
@@ -631,6 +631,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Note:** `None yet`
 
 </details> <!-- End of TT40 !-->
+
 ---
 
 ### [Takeout Tuesday 41](#Takeout-Tuesday-41)
@@ -642,6 +643,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Note:** `None yet`
 
 </details> <!-- End of TT41 !-->
+
 ---
 
 ### [Takeout Tuesday 42](#Takeout-Tuesday-42)
@@ -653,6 +655,32 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Note:** `None yet`
 
 </details> <!-- End of TT42 !-->
+
+---
+
+### [Takeout Tuesday 43](#Takeout-Tuesday-43)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, March 19th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT43 !-->
+
+---
+
+### [Takeout Tuesday 44](#Takeout-Tuesday-44)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, March 26th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT44 !-->
+
+---
 
 </details> <!-- End of TT Timeline !-->
 
@@ -666,8 +694,6 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 </details>
 
-</details>
-
 ***
 
 # [File info](#File-info)
@@ -675,12 +701,12 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `21 (2023, Tuesday, October 24th at 06:09 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,190`
-- **Word count:** `06,860`
-- **Character count (including spaces):** `46,118`
-- **Character count (excluding spaces):** `39,023`
-- **Size (in bytes):** `46,133`
+- **File version:** `22 (2023, Tuesday, October 31st at 10:15 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,244`
+- **Word count:** `07,175`
+- **Character count (including spaces):** `48,197`
+- **Character count (excluding spaces):** `40,757`
+- **Size (in bytes):** `48,212`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1172,6 +1198,32 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
+## Version 22 (2023, Wednesday, October 31st at 10:15 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, although rather late in the day, as I almost forgot, with partial new data. This project has lost a lot of energy, I hope to return some energy to it eventually. For now, I am just getting by._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 22
+- - [x] Updated the `Takeout Tuesday 22` subsection
+- - [x] Added blank entries for Takeout Tuesday 43 and 44
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 22
+- [ ] No other changes in version 22
+
+</details>
+
+---
+
 </details>
 
 ***
@@ -1185,5 +1237,7 @@ You have reached the bottom of this page.
 </details>
 
 ###### [EOF](#EOF)
+
+</details> <!-- End of article !-->
 
 ***
