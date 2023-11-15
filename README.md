@@ -108,7 +108,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 21`](#Takeout-Tuesday-21) | `Google Play Movies & TV` & `Android Device Configuration Service` ***{*** `SeanWallaWalla` ***}*** |
 | [`Week 22`](#Takeout-Tuesday-22) | `Google Chrome` ***{*** `SeanWallaWalla` ***}*** |
 | [`Week 23`](#Takeout-Tuesday-23) | `Google Cloud Search` ***{*** `SeanWallaWalla` ***}*** `Google Contacts` & `Google Play Store` ***{*** `SeanWallaWalla` ***}*** ***{ ⛔️ }*** |
-| [`Week 24`](#Takeout-Tuesday-24) | `TBD` |
+| [`Week 24`](#Takeout-Tuesday-24) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 25`](#Takeout-Tuesday-25) | `TBD` |
 | [`Week 26`](#Takeout-Tuesday-26) | `TBD` |
 | [`Week 27`](#Takeout-Tuesday-27) | `TBD` |
@@ -131,6 +131,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 44`](#Takeout-Tuesday-44) | `TBD` |
 | [`Week 45`](#Takeout-Tuesday-45) | `TBD` |
 | [`Week 46`](#Takeout-Tuesday-46) | `TBD` |
+| [`Week 47`](#Takeout-Tuesday-47) | `TBD` |
+| [`Week 48`](#Takeout-Tuesday-48) | `TBD` |
 
 </details>
 
@@ -438,8 +440,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, November 14th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I needed to keep this project alive, and takeouts of new data aside from daily takeouts (FreeCodeCamp, Proton Calendar) are getting very sparse. I came back to Mastodon and posted a little, just so I could do a takeout this week.`
 
 </details> <!-- End of TT24 !-->
 
@@ -707,6 +709,32 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT46 !-->
 
+
+---
+
+### [Takeout Tuesday 47](#Takeout-Tuesday-47)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, April 16th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT47 !-->
+
+
+---
+
+### [Takeout Tuesday 48](#Takeout-Tuesday-48)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, April 23rd`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT48 !-->
+
 ---
 
 </details> <!-- End of TT Timeline !-->
@@ -728,12 +756,12 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `23 (2023, Tuesday, November 7th at 09:52 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,297`
-- **Word count:** `07,606`
-- **Character count (including spaces):** `50,995`
-- **Character count (excluding spaces):** `43,086`
-- **Size (in bytes):** `51,018`
+- **File version:** `24 (2023, Tuesday, November 14th at 04:41 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,351`
+- **Word count:** `07,892`
+- **Character count (including spaces):** `52,948`
+- **Character count (excluding spaces):** `44,726`
+- **Size (in bytes):** `52,971`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1277,6 +1305,32 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
+## Version 24 (2023, Tuesday, November 14th at 04:41 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, and earlier in the day with very partial new data. This project has lost a lot of energy, I hope to return some energy to it eventually. For now, I am just getting by._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 24
+- - [x] Updated the `Takeout Tuesday 24` subsection
+- - [x] Added blank entries for Takeout Tuesday 47 and 48
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 24
+- [ ] No other changes in version 24
+
+</details>
+
+---
+
 </details>
 
 ***
@@ -1285,7 +1339,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (footer)]</b></p></summary>
 
-You have reached the bottom of this page.
+_You have reached the bottom of this page._
 
 </details>
 
