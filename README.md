@@ -111,7 +111,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 24`](#Takeout-Tuesday-24) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 25`](#Takeout-Tuesday-25) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 26`](#Takeout-Tuesday-26) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 27`](#Takeout-Tuesday-27) | `TBD` |
+| [`Week 27`](#Takeout-Tuesday-27) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 28`](#Takeout-Tuesday-28) | `TBD` |
 | [`Week 29`](#Takeout-Tuesday-29) | `TBD` |
 | [`Week 30`](#Takeout-Tuesday-30) | `TBD` |
@@ -137,6 +137,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 50`](#Takeout-Tuesday-50) | `TBD` |
 | [`Week 51`](#Takeout-Tuesday-51) | `TBD` |
 | [`Week 52`](#Takeout-Tuesday-52) | `TBD` |
+| [`Week 53`](#Takeout-Tuesday-53) | `TBD` |
+| [`Week 54`](#Takeout-Tuesday-54) | `TBD` |
 
 </details>
 
@@ -467,7 +469,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, November 22nd`
+- **Date:** `2023, Tuesday, November 29th`
 - **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I have been keeping my Mastodon account active so I can back it up weekly. The data was taken out before 1:00 am today (but after 12:00 am) I am currently working on a proper Scratch data takeout, and a potential Google Sites takeout via nonconventional means (Ripping, as Google doesn't allow you to takeout "new" Google Sites data) I am trying to figure out who to contact to ask for Scratch data, but the forums have been down for at least 3 days, and the potential answer lies in one of the posts within it.`
 
@@ -479,9 +481,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, November 29th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Date:** `2023, Tuesday, December 5th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `Todays takeout wasn't anything special, there has been limited activity on my Mastodon account, and after finding out the way to do a Scratch takeout, I have begun to procrastinate on the task. I don't entirely know how to word my message.`
 
 </details> <!-- End of TT27 !-->
 
@@ -491,7 +493,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, December 5th`
+- **Date:** `2023, Tuesday, December 12th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -503,7 +505,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, December 12th`
+- **Date:** `2023, Tuesday, December 19th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -515,7 +517,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, December 19th`
+- **Date:** `2023, Tuesday, December 26th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -527,7 +529,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2023, Tuesday, December 26th`
+- **Date:** `2024, Tuesday, January 2nd`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -539,7 +541,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, January 2nd`
+- **Date:** `2024, Tuesday, January 9th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -551,7 +553,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, January 9th`
+- **Date:** `2024, Tuesday, January 16th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -563,7 +565,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, January 16th`
+- **Date:** `2024, Tuesday, January 23rd`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -575,7 +577,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, January 23rd`
+- **Date:** `2024, Tuesday, January 30th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -587,7 +589,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, January 30th`
+- **Date:** `2024, Tuesday, February 6th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -599,7 +601,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, February 6th `
+- **Date:** `2024, Tuesday, February 13th `
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -611,7 +613,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, February 13th`
+- **Date:** `2024, Tuesday, February 20th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -623,7 +625,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, February 20th`
+- **Date:** `2024, Tuesday, February 27th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -635,7 +637,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, February 27th`
+- **Date:** `2024, Tuesday, March 5th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -647,7 +649,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, March 5th`
+- **Date:** `2024, Tuesday, March 12th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -659,7 +661,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, March 12th`
+- **Date:** `2024, Tuesday, March 19th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -671,7 +673,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, March 19th`
+- **Date:** `2024, Tuesday, March 26th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -683,7 +685,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, March 26th`
+- **Date:** `2024, Tuesday, April 2nd`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -695,7 +697,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, April 2nd`
+- **Date:** `2024, Tuesday, April 9th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -707,7 +709,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, April 9th`
+- **Date:** `2024, Tuesday, April 16th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -719,7 +721,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, April 16th`
+- **Date:** `2024, Tuesday, April 23rd`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -731,7 +733,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, April 23rd`
+- **Date:** `2024, Tuesday, April 30th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -743,7 +745,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, April 30th`
+- **Date:** `2024, Tuesday, May 7th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -755,7 +757,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, May 7th`
+- **Date:** `2024, Tuesday, May 14th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -767,7 +769,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, May 14th`
+- **Date:** `2024, Tuesday, May 21st`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
@@ -779,11 +781,35 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2024, Tuesday, May 21st`
+- **Date:** `2024, Tuesday, May 28th`
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT502!-->
+</details> <!-- End of TT52 !-->
+
+---
+
+### [Takeout Tuesday 53](#Takeout-Tuesday-53)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, June 4th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT53 !-->
+
+---
+
+### [Takeout Tuesday 54](#Takeout-Tuesday-54)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, June 11th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT54 !-->
 
 ---
 
@@ -806,12 +832,12 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `26 (2023, Tuesday, November 28th at 06:53 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,451`
-- **Word count:** `08,483`
-- **Character count (including spaces):** `56,899`
-- **Character count (excluding spaces):** `48,043`
-- **Size (in bytes):** `56,922`
+- **File version:** `27 (2023, Tuesday, December 5th at 05:19 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,503`
+- **Word count:** `08,748`
+- **Character count (including spaces):** `58,728`
+- **Character count (excluding spaces):** `49,583`
+- **Size (in bytes):** `58,751`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1426,6 +1452,32 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 26
 - [ ] No other changes in version 26
+
+</details>
+
+---
+
+## Version 27 (2023, Tuesday, December 5th at 05:19 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, and later in the day with very partial new data._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 27
+- - [x] Updated the `Takeout Tuesday 27` subsection
+- - [x] Added blank entries for Takeout Tuesday 53 and 54
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 27
+- [ ] No other changes in version 27
 
 </details>
 
