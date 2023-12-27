@@ -114,7 +114,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 27`](#Takeout-Tuesday-27) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 28`](#Takeout-Tuesday-28) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 29`](#Takeout-Tuesday-29) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 30`](#Takeout-Tuesday-30) | `TBD` |
+| [`Week 30`](#Takeout-Tuesday-30) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 31`](#Takeout-Tuesday-31) | `TBD` |
 | [`Week 32`](#Takeout-Tuesday-32) | `TBD` |
 | [`Week 33`](#Takeout-Tuesday-33) | `TBD` |
@@ -143,6 +143,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 56`](#Takeout-Tuesday-56) | `TBD` |
 | [`Week 57`](#Takeout-Tuesday-57) | `TBD` |
 | [`Week 58`](#Takeout-Tuesday-58) | `TBD` |
+| [`Week 59`](#Takeout-Tuesday-59) | `TBD` |
+| [`Week 60`](#Takeout-Tuesday-60) | `TBD` |
 
 </details>
 
@@ -522,8 +524,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2023, Tuesday, December 26th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `Todays takeout had the same target as last week. There has been a relatively calm amount if activity on my Mastodon account, and today was just a continuation of making sure a backup history is kept. The Scratch data takeout is still on hold. This week was again merely keeping things consistent.`
 
 </details> <!-- End of TT30 !-->
 
@@ -865,6 +867,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 ---
 
+### [Takeout Tuesday 59](#Takeout-Tuesday-59)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, July 16th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT59 !-->
+
+---
+
+### [Takeout Tuesday 60](#Takeout-Tuesday-60)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, July 23rd`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT60 !-->
+
+---
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -884,12 +910,12 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `29 (2023, Tuesday, December 19th at 04:31 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,607`
-- **Word count:** `09,289`
-- **Character count (including spaces):** `62,488`
-- **Character count (excluding spaces):** `52,753`
-- **Size (in bytes):** `62,511`
+- **File version:** `30 (2023, Tuesday, December 26th at 06:08 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,659`
+- **Word count:** `09,556`
+- **Character count (including spaces):** `64,356`
+- **Character count (excluding spaces):** `54,329`
+- **Size (in bytes):** `64,379`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1582,6 +1608,32 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 29
 - [ ] No other changes in version 29
+
+</details>
+
+---
+
+## Version 30 (2023, Tuesday, December 26th at 06:08 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 30
+- - [x] Updated the `Takeout Tuesday 30` subsection
+- - [x] Added blank entries for Takeout Tuesday 59 and 60
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 30
+- [ ] No other changes in version 30
 
 </details>
 
