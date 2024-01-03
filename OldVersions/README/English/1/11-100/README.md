@@ -115,7 +115,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 28`](#Takeout-Tuesday-28) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 29`](#Takeout-Tuesday-29) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 30`](#Takeout-Tuesday-30) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 31`](#Takeout-Tuesday-31) | `TBD` |
+| [`Week 31`](#Takeout-Tuesday-31) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 32`](#Takeout-Tuesday-32) | `TBD` |
 | [`Week 33`](#Takeout-Tuesday-33) | `TBD` |
 | [`Week 34`](#Takeout-Tuesday-34) | `TBD` |
@@ -145,6 +145,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 58`](#Takeout-Tuesday-58) | `TBD` |
 | [`Week 59`](#Takeout-Tuesday-59) | `TBD` |
 | [`Week 60`](#Takeout-Tuesday-60) | `TBD` |
+| [`Week 61`](#Takeout-Tuesday-61) | `TBD` |
+| [`Week 62`](#Takeout-Tuesday-62) | `TBD` |
 
 </details>
 
@@ -525,7 +527,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 - **Date:** `2023, Tuesday, December 26th`
 - **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
-- **Note:** `Todays takeout had the same target as last week. There has been a relatively calm amount if activity on my Mastodon account, and today was just a continuation of making sure a backup history is kept. The Scratch data takeout is still on hold. This week was again merely keeping things consistent.`
+- **Note:** `Todays takeout had the same target as last week. There has been a relatively calm amount of activity on my Mastodon account, and today was just a continuation of making sure a backup history is kept. The Scratch data takeout is still on hold. This week was again merely keeping things consistent.`
 
 </details> <!-- End of TT30 !-->
 
@@ -536,8 +538,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, January 2nd`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `Todays takeout had the same target as last week. There has an even calmer amount of activity on my Mastodon account, and today was just a continuation of making sure a backup history is kept. The Scratch data takeout is still on hold. This week was again merely keeping things consistent again.`
 
 </details> <!-- End of TT31 !-->
 
@@ -891,6 +893,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 ---
 
+### [Takeout Tuesday 61](#Takeout-Tuesday-61)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, July 30th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT61 !-->
+
+---
+
+### [Takeout Tuesday 62](#Takeout-Tuesday-62)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, August 6th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT62 !-->
+
+---
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -910,12 +936,12 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `30 (2023, Tuesday, December 26th at 06:08 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,659`
-- **Word count:** `09,556`
-- **Character count (including spaces):** `64,356`
-- **Character count (excluding spaces):** `54,329`
-- **Size (in bytes):** `64,379`
+- **File version:** `31 (2024, Tuesday, January 2nd at 07:47 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,711`
+- **Word count:** `09,841`
+- **Character count (including spaces):** `66,309`
+- **Character count (excluding spaces):** `55,972`
+- **Size (in bytes):** `66,332`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1634,6 +1660,32 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 30
 - [ ] No other changes in version 30
+
+</details>
+
+---
+
+## Version 31 (2024, Tuesday, January 2nd at 07:47 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data. I almost forgot to update this file, but I still did the takeout much earlier in the day._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 31
+- - [x] Updated the `Takeout Tuesday 30` subsection
+- - [x] Added blank entries for Takeout Tuesday 61 and 62
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 31
+- [ ] No other changes in version 31
 
 </details>
 
