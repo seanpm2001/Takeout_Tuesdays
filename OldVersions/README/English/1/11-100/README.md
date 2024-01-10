@@ -1,6 +1,8 @@
 
 ***
 
+###### [Top](#Top)
+
 <img src="/Takeout-Tuesdays_1024pxIcon_V1_HighCompression.png" alt="Takeout Tuesdays logo" title="Takeout Tuesdays logo" width="256" height="256">
 
 # [Takeout Tuesdays](#Takeout-Tuesdays)
@@ -116,7 +118,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 29`](#Takeout-Tuesday-29) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 30`](#Takeout-Tuesday-30) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 31`](#Takeout-Tuesday-31) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 32`](#Takeout-Tuesday-32) | `TBD` |
+| [`Week 32`](#Takeout-Tuesday-32) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 33`](#Takeout-Tuesday-33) | `TBD` |
 | [`Week 34`](#Takeout-Tuesday-34) | `TBD` |
 | [`Week 35`](#Takeout-Tuesday-35) | `TBD` |
@@ -147,6 +149,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 60`](#Takeout-Tuesday-60) | `TBD` |
 | [`Week 61`](#Takeout-Tuesday-61) | `TBD` |
 | [`Week 62`](#Takeout-Tuesday-62) | `TBD` |
+| [`Week 63`](#Takeout-Tuesday-63) | `TBD` |
+| [`Week 64`](#Takeout-Tuesday-64) | `TBD` |
 
 </details>
 
@@ -550,8 +554,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, January 9th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `Todays takeout had the same target as last week. There has an even calmer amount of activity on my Mastodon account, and today was just a continuation of making sure a backup history is kept. The Scratch data takeout is still on hold. This week was again merely keeping things consistent again. I am starting to consider joining the Lemmyverse portion of the Fediverse, but I still have some questions first.`
 
 </details> <!-- End of TT32 !-->
 
@@ -917,6 +921,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 ---
 
+### [Takeout Tuesday 63](#Takeout-Tuesday-63)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, August 13th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT63 !-->
+
+---
+
+### [Takeout Tuesday 64](#Takeout-Tuesday-64)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, August 20th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT64 !-->
+
+---
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -936,12 +964,12 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `31 (2024, Tuesday, January 2nd at 07:47 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,711`
-- **Word count:** `09,841`
-- **Character count (including spaces):** `66,309`
-- **Character count (excluding spaces):** `55,972`
-- **Size (in bytes):** `66,332`
+- **File version:** `32 (2024, Tuesday, January 9th at 04:55 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,780`
+- **Word count:** `10,355`
+- **Character count (including spaces):** `69,870`
+- **Character count (excluding spaces):** `58,933`
+- **Size (in bytes):** `69,893`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -986,7 +1014,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Added the `File info` section
 - [ ] No otber changes in version 1
 
-</details>
+</details> <!-- End of file history: V1 !-->
 
 ---
 
@@ -1006,7 +1034,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Added the Footer
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- End of file history: V2 !-->
 
 ---
 
@@ -1029,7 +1057,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- End of file history: V3 !-->
 
 ---
 
@@ -1047,7 +1075,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- End of file history: V4 !-->
 
 ---
 
@@ -1069,7 +1097,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- End of file history: V5 !-->
 
 ---
 
@@ -1091,7 +1119,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
 
-</details>
+</details> <!-- End of file history: V6 !-->
 
 ---
 
@@ -1113,7 +1141,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
 
-</details>
+</details> <!-- End of file history: V7 !-->
 
 ---
 
@@ -1135,7 +1163,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 8
 - [ ] No other changes in version 8
 
-</details>
+</details> <!-- End of file history: V8 !-->
 
 ---
 
@@ -1157,7 +1185,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
 
-</details>
+</details> <!-- End of file history: V9 !-->
 
 ---
 
@@ -1179,7 +1207,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 10
 - [ ] No other changes in version 10
 
-</details>
+</details> <!-- End of file history: V10 !-->
 
 ---
 
@@ -1201,7 +1229,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 11
 - [ ] No other changes in version 11
 
-</details>
+</details> <!-- End of file history: V11 !-->
 
 ---
 
@@ -1223,7 +1251,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
 
-</details>
+</details> <!-- End of file history: V12 !-->
 
 ---
 
@@ -1245,7 +1273,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 13
 - [ ] No other changes in version 13
 
-</details>
+</details> <!-- End of file history: V13 !-->
 
 ---
 
@@ -1268,7 +1296,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 14
 - [ ] No other changes in version 14
 
-</details>
+</details> <!-- End of file history: V14!-->
 
 ---
 
@@ -1290,7 +1318,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 15
 - [ ] No other changes in version 15
 
-</details>
+</details> <!-- End of file history: V15 !-->
 
 ---
 
@@ -1312,7 +1340,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 16
 - [ ] No other changes in version 16
 
-</details>
+</details> <!-- End of file history: V16 !-->
 
 ---
 
@@ -1334,7 +1362,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
 
-</details>
+</details> <!-- End of file history: V17 !-->
 
 ---
 
@@ -1356,7 +1384,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
 
-</details>
+</details> <!-- End of file history: V18 !-->
 
 ---
 
@@ -1378,7 +1406,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
 
-</details>
+</details> <!-- End of file history: V19 !-->
 
 ---
 
@@ -1402,7 +1430,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
 
-</details>
+</details> <!-- End of file history: V20 !-->
 
 ---
 
@@ -1429,7 +1457,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 21
 - [ ] No other changes in version 21
 
-</details>
+</details> <!-- End of file history: V21 !-->
 
 ---
 
@@ -1455,7 +1483,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 22
 - [ ] No other changes in version 22
 
-</details>
+</details> <!-- End of file history: V22 !-->
 
 ---
 
@@ -1481,7 +1509,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 23
 - [ ] No other changes in version 23
 
-</details>
+</details> <!-- End of file history: V23 !-->
 
 ---
 
@@ -1507,7 +1535,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 24
 - [ ] No other changes in version 24
 
-</details>
+</details> <!-- End of file history: V24 !-->
 
 ---
 
@@ -1533,6 +1561,8 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 25
 - [ ] No other changes in version 25
 
+</details> <!-- End of file history: V25 !-->
+
 ---
 
 ## Version 26 (2023, Tuesday, November 28th at 06:53 pm PST)
@@ -1557,7 +1587,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 26
 - [ ] No other changes in version 26
 
-</details>
+</details> <!-- End of file history: V26 !-->
 
 ---
 
@@ -1583,7 +1613,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 27
 - [ ] No other changes in version 27
 
-</details>
+</details> <!-- End of file history: V27 !-->
 
 ---
 
@@ -1609,7 +1639,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 28
 - [ ] No other changes in version 28
 
-</details>
+</details> <!-- End of file history: V28 !-->
 
 ---
 
@@ -1635,7 +1665,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 29
 - [ ] No other changes in version 29
 
-</details>
+</details> <!-- End of file history: V29 !-->
 
 ---
 
@@ -1661,7 +1691,7 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 30
 - [ ] No other changes in version 30
 
-</details>
+</details> <!-- End of file history: V30 !-->
 
 ---
 
@@ -1687,7 +1717,35 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - - [x] Added an entry for version 31
 - [ ] No other changes in version 31
 
-</details>
+</details> <!-- End of file history: V31 !-->
+
+---
+
+## Version 32 (2024, Tuesday, January 9th at 04:55 pm PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with partial new data._
+
+> Changes:
+
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 32
+- - [x] Updated the `Takeout Tuesday 30` subsection
+- - [x] Added blank entries for Takeout Tuesday 63 and 64
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 32
+- - [x] Added source code comments to denote the end of the first 32 entries in the file history section
+- [x] Updated the footer
+- [ ] No other changes in version 32
+
+</details> <!-- End of file history: V32 !-->
 
 ---
 
@@ -1699,12 +1757,23 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (footer)]</b></p></summary>
 
-_You have reached the bottom of this page._
+**You have reached the end of this file.**
 
-</details>
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [:octocat: `Exit to Bing`](https://bing.com/)
+- [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [:octocat: `Exit to Ecosia`](https://ecosia.org/)
+- [:octocat: `Exit to Swisscows`](https://swisscows.com/)
 
 ###### [EOF](#EOF)
 
-</details> <!-- End of article !-->
+<!-- EOF:
+End
+Of
+File
+!-->
+
+</details> <!-- End of page !-->
 
 ***
