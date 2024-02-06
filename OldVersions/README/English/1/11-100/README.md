@@ -11,11 +11,9 @@
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (title/lead section)]</b></p></summary>
 
-Takeout Tuesdays is a personal event of mine, where data takeout is prioritized once a week on Tuesday. This tradition started for me on 2023, Tuesday, June 6th. You can adopt the tradition as well if you want.
-
-This repository is for documenting the event, and the history of my commitment towards it.
-
-I try to update this repository once per week. If I don't get to an update on Tuesday, I will either catch back up on Wednesday or Thursday, although this isn't ideal.
+- Takeout Tuesdays is a personal event of mine, where data takeout is prioritized once a week on Tuesday. This tradition started for me on 2023, Tuesday, June 6th. You can adopt the tradition as well if you want.
+- This repository is for documenting the event, and the history of my commitment towards it.
+- I try to update this repository once per week. If I don't get to an update on Tuesday, I will either catch back up on Wednesday or Thursday, although this isn't ideal.
 
 | **Redirect:** | [:octocat: `Takeout Tuesday`](https://github.com/seanpm2001/Takeout-Tuesdays/) |
 |---|---|
@@ -47,6 +45,140 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 - Other email services and programs that support `*.ics` files
 
 </details>
+
+***
+
+# [Table of Contents](#Table-of-contents)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Table of Contents section</b></p></summary>
+
+| Name | Category/section |
+|------|------------------|
+| [`Top`](#Top) | Top of document |
+| [`Takeout Tuesdays`](#Takeout-Tuesdays) | Title section |
+| [`Table of Contents`](#Table-of-Contents) | ToC section |
+| [`Rationale`](#Rationale) | Overview section |
+| [`Reminder to myself and others`](#Reminder-to-myself-and-others) | Overview section |
+| [`History timeline`](#History-timeline) | Body/Timeline |
+| [`History overview`](#History-overview) | Body/Timeline |
+| [`Target summary`](#Target-summary) | Body/Timeline |
+| [`Weekly timeline`](#Weekly-timeline) | Body/Timeline |
+| [`Takeout Tuesday 0`](#Takeout-Tuesday-0) | Weekly timeline |
+| [`Takeout Tuesday 1`](#Takeout-Tuesday-1) | Weekly timeline |
+| [`Takeout Tuesday 2`](#Takeout-Tuesday-2) | Weekly timeline |
+| [`Takeout Tuesday 3`](#Takeout-Tuesday-3) | Weekly timeline |
+| [`Takeout Tuesday 4`](#Takeout-Tuesday-4) | Weekly timeline |
+| [`Takeout Tuesday 5`](#Takeout-Tuesday-5) | Weekly timeline |
+| [`Takeout Tuesday 6`](#Takeout-Tuesday-6) | Weekly timeline |
+| [`Takeout Tuesday 7`](#Takeout-Tuesday-7) | Weekly timeline |
+| [`Takeout Tuesday 8`](#Takeout-Tuesday-8) | Weekly timeline |
+| [`Takeout Tuesday 9`](#Takeout-Tuesday-9) | Weekly timeline |
+| [`Takeout Tuesday 10`](#Takeout-Tuesday-10) | Weekly timeline |
+| [`Takeout Tuesday 11`](#Takeout-Tuesday-11) | Weekly timeline |
+| [`Takeout Tuesday 12`](#Takeout-Tuesday-12) | Weekly timeline |
+| [`Takeout Tuesday 13`](#Takeout-Tuesday-13) | Weekly timeline |
+| [`Takeout Tuesday 14`](#Takeout-Tuesday-14) | Weekly timeline |
+| [`Takeout Tuesday 15`](#Takeout-Tuesday-15) | Weekly timeline |
+| [`Takeout Tuesday 16`](#Takeout-Tuesday-16) | Weekly timeline |
+| [`Takeout Tuesday 17`](#Takeout-Tuesday-17) | Weekly timeline |
+| [`Takeout Tuesday 18`](#Takeout-Tuesday-18) | Weekly timeline |
+| [`Takeout Tuesday 19`](#Takeout-Tuesday-19) | Weekly timeline |
+| [`Takeout Tuesday 20`](#Takeout-Tuesday-20) | Weekly timeline |
+| [`Takeout Tuesday 21`](#Takeout-Tuesday-21) | Weekly timeline |
+| [`Takeout Tuesday 22`](#Takeout-Tuesday-22) | Weekly timeline |
+| [`Takeout Tuesday 23`](#Takeout-Tuesday-23) | Weekly timeline |
+| [`Takeout Tuesday 24`](#Takeout-Tuesday-24) | Weekly timeline |
+| [`Takeout Tuesday 25`](#Takeout-Tuesday-25) | Weekly timeline |
+| [`Takeout Tuesday 26`](#Takeout-Tuesday-26) | Weekly timeline |
+| [`Takeout Tuesday 27`](#Takeout-Tuesday-27) | Weekly timeline |
+| [`Takeout Tuesday 28`](#Takeout-Tuesday-28) | Weekly timeline |
+| [`Takeout Tuesday 29`](#Takeout-Tuesday-29) | Weekly timeline |
+| [`Takeout Tuesday 30`](#Takeout-Tuesday-30) | Weekly timeline |
+| [`Takeout Tuesday 31`](#Takeout-Tuesday-31) | Weekly timeline |
+| [`Takeout Tuesday 32`](#Takeout-Tuesday-32) | Weekly timeline |
+| [`Takeout Tuesday 33`](#Takeout-Tuesday-33) | Weekly timeline |
+| [`Takeout Tuesday 34`](#Takeout-Tuesday-34) | Weekly timeline |
+| [`Takeout Tuesday 35`](#Takeout-Tuesday-35) | Weekly timeline |
+| [`Takeout Tuesday 36`](#Takeout-Tuesday-36) | Weekly timeline |
+| [`Takeout Tuesday 37`](#Takeout-Tuesday-37) | Weekly timeline |
+| [`Takeout Tuesday 38`](#Takeout-Tuesday-38) | Weekly timeline |
+| [`Takeout Tuesday 39`](#Takeout-Tuesday-39) | Weekly timeline |
+| [`Takeout Tuesday 40`](#Takeout-Tuesday-40) | Weekly timeline |
+| [`Takeout Tuesday 41`](#Takeout-Tuesday-41) | Weekly timeline |
+| [`Takeout Tuesday 42`](#Takeout-Tuesday-42) | Weekly timeline |
+| [`Takeout Tuesday 43`](#Takeout-Tuesday-43) | Weekly timeline |
+| [`Takeout Tuesday 44`](#Takeout-Tuesday-44) | Weekly timeline |
+| [`Takeout Tuesday 45`](#Takeout-Tuesday-45) | Weekly timeline |
+| [`Takeout Tuesday 46`](#Takeout-Tuesday-46) | Weekly timeline |
+| [`Takeout Tuesday 47`](#Takeout-Tuesday-47) | Weekly timeline |
+| [`Takeout Tuesday 48`](#Takeout-Tuesday-48) | Weekly timeline |
+| [`Takeout Tuesday 49`](#Takeout-Tuesday-49) | Weekly timeline |
+| [`Takeout Tuesday 50`](#Takeout-Tuesday-50) | Weekly timeline |
+| [`Takeout Tuesday 51`](#Takeout-Tuesday-51) | Weekly timeline |
+| [`Takeout Tuesday 52`](#Takeout-Tuesday-52) | Weekly timeline |
+| [`Takeout Tuesday 53`](#Takeout-Tuesday-53) | Weekly timeline |
+| [`Takeout Tuesday 54`](#Takeout-Tuesday-54) | Weekly timeline |
+| [`Takeout Tuesday 55`](#Takeout-Tuesday-55) | Weekly timeline |
+| [`Takeout Tuesday 56`](#Takeout-Tuesday-56) | Weekly timeline |
+| [`Takeout Tuesday 57`](#Takeout-Tuesday-57) | Weekly timeline |
+| [`Takeout Tuesday 58`](#Takeout-Tuesday-58) | Weekly timeline |
+| [`Takeout Tuesday 59`](#Takeout-Tuesday-59) | Weekly timeline |
+| [`Takeout Tuesday 60`](#Takeout-Tuesday-60) | Weekly timeline |
+| [`Takeout Tuesday 61`](#Takeout-Tuesday-61) | Weekly timeline |
+| [`Takeout Tuesday 62`](#Takeout-Tuesday-62) | Weekly timeline |
+| [`Takeout Tuesday 63`](#Takeout-Tuesday-63) | Weekly timeline |
+| [`Takeout Tuesday 64`](#Takeout-Tuesday-64) | Weekly timeline |
+| [`Takeout Tuesday 65`](#Takeout-Tuesday-65) | Weekly timeline |
+| [`Takeout Tuesday 66`](#Takeout-Tuesday-66) | Weekly timeline |
+| [`Takeout Tuesday 67`](#Takeout-Tuesday-67) | Weekly timeline |
+| [`Takeout Tuesday 68`](#Takeout-Tuesday-68) | Weekly timeline |
+| [`Takeout Tuesday 69`](#Takeout-Tuesday-69) | Weekly timeline |
+| [`Takeout Tuesday 70`](#Takeout-Tuesday-70) | Weekly timeline |
+| [`Takeout Tuesday 71`](#Takeout-Tuesday-71) | Weekly timeline |
+| [`Takeout Tuesday 72`](#Takeout-Tuesday-72) | Weekly timeline |
+| [`Feeds`](#Feeds) | Body/Info |
+| [`File info`](#File-info) | Body/Summary |
+| [`File history`](#File-history) | File history |
+| [`Version 1 (2023, Tuesday, June 20th at 05:05 pm PST)`](#Version-1-2023-Tuesday-June-20th-at-05-05-pm-PST) | File history |
+| [`Version 2 (2023, Tuesday, June 20th at 10:35 pm PST)`](#Version-2-2023-Tuesday-June-20th-at-10-35-pm-PST) | File history |
+| [`Version 3 (2023, Tuesday, June 27th at 12:18 pm PST)`](#Version-3-2023-Tuesday-June-27th-at-12-18-pm-PST) | File history |
+| [`Version 4 (2023, Tuesday, June 27th at 01:13 pm PST)`](#Version-4-2023-Tuesday-June-27th-at-01-13-pm-PST) | File history |
+| [`Version 5 (2023, Wednesday, July 5th at 04:45 pm PST)`](#Version-5-2023-Wednesday-July-5th-at-04-45-pm-PST) | File history |
+| [`Version 6 (2023, Tuesday, July 11th at 05:00 pm PST)`](#Version-6-2023-Tuesday-July-11th-at-05-00-pm-PST) | File history |
+| [`Version 7 (2023, Tuesday, July 18th at 03:37 pm PST)`](#Version-7-2023-Tuesday-July-18th-at-03-37-pm-PST) | File history |
+| [`Version 8 (2023, Tuesday, July 25th at 06:34 pm PST)`](#Version-8-2023-Tuesday-July-25th-at-06-34-pm-PST) | File history |
+| [`Version 9 (2023, Tuesday, August 1st at 06:38 pm PST)`](#Version-9-2023-Tuesday-August-1st-at-06-38-pm-PST) | File history |
+| [`Version 10 (2023, Tuesday, August 8th at 07:00 pm PST)`](#Version-10-2023-Tuesday-August-8th-at-07-00-pm-PST) | File history |
+| [`Version 11 (2023, Tuesday, August 15th at 02:25 pm PST)`](#Version-11-2023-Tuesday-August-15th-at-02-25-pm-PST) | File history |
+| [`Version 12 (2023, Tuesday, August 22nd at 05:42 pm PST)`](#Version-12-2023-Tuesday-August-22nd-at-05-42-pm-PST) | File history |
+| [`Version 13 (2023, Tuesday, August 29th at 04:42 pm PST)`](#Version-13-2023-Tuesday-August-29th-at-04-42-pm-PST) | File history |
+| [`Version 14 (2023, Tuesday, September 5th at 09:53 pm PST)`](#Version-14-2023-Tuesday-September-5th-at-09-53-pm-PST) | File history |
+| [`Version 15 (2023, Tuesday, September 12th at 07:11 pm PST)`](#Version-15-2023-Tuesday-September-12th-at-07-11-pm-PST) | File history |
+| [`Version 16 (2023, Tuesday, September 19th at 08:12 pm PST)`](#Version-16-2023-Tuesday-September-19th-at-08-12-pm-PST) | File history |
+| [`Version 17 (2023, Tuesday, September 26th at 03:05 pm PST)`](#Version-17-2023-Tuesday-September-26th-at-03-05-pm-PST) | File history |
+| [`Version 18 (2023, Tuesday, October 3rd at 06:20 pm PST)`](#Version-18-2023-Tuesday-October-3rd-at-06-20-pm-PST) | File history |
+| [`Version 19 (2023, Tuesday, October 10th at 06:16 pm PST)`](#Version-19-2023-Tuesday-October-10th-at-06-16-pm-PST) | File history |
+| [`Version 20 (2023, Tuesday, October 17th at 04:49 pm PST)`](#Version-20-2023-Tuesday-October-17th-at-04-49-pm-PST) | File history |
+| [`Version 21 (2023, Tuesday, October 24th at 06:09 pm PST)`](#Version-21-2023-Tuesday-October-24th-at-06-09-pm-PST) | File history |
+| [`Version 22 (2023, Tuesday, October 31st at 10:15 pm PST)`](#Version-22-2023-Tuesday-October-31st-at-10-15-pm-PST) | File history |
+| [`Version 23 (2023, Tuesday, November 7th at 09:52 pm PST)`](#Version-23-2023-Tuesday-November-7th-at-09-52-pm-PST) | File history |
+| [`Version 24 (2023, Tuesday, November 14th at 04:41 pm PST)`](#Version-24-2023-Tuesday-November-14th-at-04-41-pm-PST) | File history |
+| [`Version 25 (2023, Tuesday, November 21st at 05:32 pm PST)`](#Version-25-2023-Tuesday-November-21st-at-05-32-pm-PST) | File history |
+| [`Version 26 (2023, Tuesday, November 28th at 06:53 pm PST)`](#Version-26-2023-Tuesday-November-28th-at-06-53-pm-PST) | File history |
+| [`Version 27 (2023, Tuesday, December 5th at 05:19 pm PST)`](#Version-27-2023-Tuesday-December-5th-at-05-19-pm-PST) | File history |
+| [`Version 28 (2023, Tuesday, December 12th at 03:54 pm PST)`](#Version-28-2023-Tuesday-December-12th-at-03-54-pm-PST) | File history |
+| [`Version 29 (2023, Tuesday, December 19th at 04:31 pm PST)`](#Version-29-2023-Tuesday-December-19th-at-04-31-pm-PST) | File history |
+| [`Version 30 (2023, Tuesday, December 26th at 06:08 pm PST)`](#Version-30-2023-Tuesday-December-26th-at-06-08-pm-PST) | File history |
+| [`Version 31 (2024, Tuesday, January 2nd at 07:47 pm PST)`](#Version-31-2024-Tuesday-January-2nd-at-07-47-pm-PST) | File history |
+| [`Version 32 (2024, Tuesday, January 9th at 04:55 pm PST)`](#Version-32-2024-Tuesday-January-9th-at-04-55-pm-PST) | File history |
+| [`Version 33 (2024, Tuesday, January 16th at 04:48 pm PST)`](#Version-33-2024-Tuesday-January-16th-at-04-48-pm-PST) | File history |
+| [`Version 34 (2024, Tuesday, January 23rd at 05:33 pm PST)`](#Version-34-2024-Tuesday-January-23rd-at-05-33-pm-PST) | File history |
+| [`Version 35 (2024, Tuesday, January 30th at 05:28 pm PST)`](#Version-35-2024-Tuesday-January-30th-at-05-28-pm-PST) | File history |
+| [`Version 36 (2024, Tuesday, February 6th at 03:02 pm PST)`](#Version-36-2024-Tuesday-February-6th-at-03-04-pm-PST) | File history |
+| [`Footer`](#Footer) | Footer |
+| [`EOF`](#EOF) | Footer |
+
+</details> <!-- End of ToC !-->
 
 ***
 
@@ -122,7 +254,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 33`](#Takeout-Tuesday-33) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 34`](#Takeout-Tuesday-34) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 35`](#Takeout-Tuesday-35) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** `ProtonPass` ***(*** `Seanpm2001` ***)*** |
-| [`Week 36`](#Takeout-Tuesday-36) | `TBD` |
+| [`Week 36`](#Takeout-Tuesday-36) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 37`](#Takeout-Tuesday-37) | `TBD` |
 | [`Week 38`](#Takeout-Tuesday-38) | `TBD` |
 | [`Week 39`](#Takeout-Tuesday-39) | `TBD` |
@@ -157,14 +289,22 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 68`](#Takeout-Tuesday-68) | `TBD` |
 | [`Week 69`](#Takeout-Tuesday-69) | `TBD` |
 | [`Week 70`](#Takeout-Tuesday-70) | `TBD` |
+| [`Week 71`](#Takeout-Tuesday-71) | `TBD` |
+| [`Week 72`](#Takeout-Tuesday-72) | `TBD` |
 
 </details>
 
 ---
 
+***End of history overview***
+
 </details>
 
 ---
+
+### [Weekly timeline](#Weekly-timeline)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section (weekly timeline)]</b></p></summary>
 
 ### [Takeout Tuesday 0](#Takeout-Tuesday-0)
 
@@ -608,8 +748,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, February 6th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout today. I have been using Mastodon more this week, but not as much as when I was starting with it. This takeout was done for consistency and also to keep my Mastodon account history archive updated. Earlier this week, I learned that boosted posts don't truly count as account posts, and are being deleted from my account storage when the original user deletes them, meaning newer archives may not contain older boosts that the original user deleted. It is disappointing to me.`
 
 </details> <!-- End of TT36 !-->
 
@@ -1023,6 +1163,38 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 ---
 
+### [Takeout Tuesday 71](#Takeout-Tuesday-71)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, October 8th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT71 !-->
+
+---
+
+### [Takeout Tuesday 72](#Takeout-Tuesday-72)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, October 15th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT72 !-->
+
+---
+
+***End of Weekly timeline***
+
+</details> <!-- End of weekly timeline !-->
+
+---
+
+***End of Takeout Tuesdays timeline***
+
 </details> <!-- End of TT Timeline !-->
 
 ***
@@ -1033,6 +1205,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 Data from Takeout Tuesdays is additionally used as a data source feed for my [:octocat: `The REAL Data Liberation Front (TRDLF)`](https://github.com/seanpm2001/The-REAL-Data-Liberation-Front/) project, specifically at [:octocat: `TRDLF Docs`](https://github.com/seanpm2001/The-REAL-Data-Liberation-Front_Docs/)
 
+I haven't gotten to updating this repository in a long time (it hasn't been updated since 2023, August 22nd, as of 2024, Tuesday, February 6th)
+
 </details>
 
 ***
@@ -1042,12 +1216,12 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `35 (2024, Tuesday, January 30th at 05:28 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,940`
-- **Word count:** `11,321`
-- **Character count (including spaces):** `76,503`
-- **Character count (excluding spaces):** `64,510`
-- **Size (in bytes):** `76,526`
+- **File version:** `36 (2024, Tuesday, February 6th at 03:04 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,150`
+- **Word count:** `013,697`
+- **Character count (including spaces):** `091,996`
+- **Character count (excluding spaces):** `078,301`
+- **Size (in bytes):** `092,019`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1066,9 +1240,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 1 (2023, Tuesday, June 20th at 05:05 pm PST)
+## [Version 1 (2023, Tuesday, June 20th at 05:05 pm PST)](#Version-1-2023-Tuesday-June-20th-at-05-05-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1096,9 +1270,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 2 (2023, Tuesday, June 20th at 10:35 pm PST)
+## [Version 2 (2023, Tuesday, June 20th at 10:35 pm PST)](#Version-2-2023-Tuesday-June-20th-at-10-35-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1116,9 +1290,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 3 (2023, Tuesday, June 27th at 12:18 pm PST)
+## [Version 3 (2023, Tuesday, June 27th at 12:18 pm PST)](#Version-3-2023-Tuesday-June-27th-at-12-18-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1139,9 +1313,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 4 (2023, Tuesday, June 27th at 01:13 pm PST)
+## [Version 4 (2023, Tuesday, June 27th at 01:13 pm PST)](#Version-4-2023-Tuesday-June-27th-at-01-13-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1157,9 +1331,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 5 (2023, Wednesday, July 5th at 04:45 pm PST)
+## [Version 5 (2023, Wednesday, July 5th at 04:45 pm PST)](#Version-5-2023-Wednesday-July-5th-at-04-45-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1179,9 +1353,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 6 (2023, Tuesday, July 11th at 05:00 pm PST)
+## [Version 6 (2023, Tuesday, July 11th at 05:00 pm PST)](#Version-6-2023-Tuesday-July-11th-at-05-00-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1201,9 +1375,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 7 (2023, Tuesday, July 18th at 03:37 pm PST)
+## [Version 7 (2023, Tuesday, July 18th at 03:37 pm PST)](#Version-7-2023-Tuesday-July-18th-at-03-37-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1223,9 +1397,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 8 (2023, Tuesday, July 25th at 06:34 pm PST)
+## [Version 8 (2023, Tuesday, July 25th at 06:34 pm PST)](#Version-8-2023-Tuesday-July-25th-at-06-34-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1245,9 +1419,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 9 (2023, Tuesday, August 1st at 06:38 pm PST)
+## [Version 9 (2023, Tuesday, August 1st at 06:38 pm PST)](#Version-9-2023-Tuesday-August-1st-at-06-38-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1267,9 +1441,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 10 (2023, Tuesday, August 8th at 07:00 pm PST)
+## [Version 10 (2023, Tuesday, August 8th at 07:00 pm PST)](#Version-10-2023-Tuesday-August-8th-at-07-00-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1289,9 +1463,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 11 (2023, Tuesday, August 15th at 02:25 pm PST)
+## [Version 11 (2023, Tuesday, August 15th at 02:25 pm PST)](#Version-11-2023-Tuesday-August-15th-at-02-25-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1311,9 +1485,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 12 (2023, Tuesday, August 22nd at 05:42 pm PST)
+## [Version 12 (2023, Tuesday, August 22nd at 05:42 pm PST)](#Version-12-2023-Tuesday-August-22nd-at-05-42-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1333,9 +1507,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 13 (2023, Tuesday, August 29th at 04:42 pm PST)
+## [Version 13 (2023, Tuesday, August 29th at 04:42 pm PST)](#Version-13-2023-Tuesday-August-29th-at-04-42-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1355,9 +1529,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 14 (2023, Tuesday, September 5th at 09:53 pm PST)
+## [Version 14 (2023, Tuesday, September 5th at 09:53 pm PST)](#Version-14-2023-Tuesday-September-5th-at-09-53-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1378,9 +1552,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 15 (2023, Tuesday, September 12th at 07:11 pm PST)
+## [Version 15 (2023, Tuesday, September 12th at 07:11 pm PST)](#Version-15-2023-Tuesday-September-12th-at-07-11-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1400,9 +1574,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 16 (2023, Tuesday, September 19th at 08:12 pm PST)
+## [Version 16 (2023, Tuesday, September 19th at 08:12 pm PST)](#Version-16-2023-Tuesday-September-19th-at-08-12-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1422,9 +1596,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 17 (2023, Tuesday, September 26th at 03:05 pm PST)
+## [Version 17 (2023, Tuesday, September 26th at 03:05 pm PST)](#Version-17-2023-Tuesday-September-26th-at-03-05-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1444,9 +1618,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 18 (2023, Tuesday, October 3rd at 06:20 pm PST)
+## [Version 18 (2023, Tuesday, October 3rd at 06:20 pm PST)](#Version-18-2023-Tuesday-October-3rd-at-06-20-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1466,9 +1640,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 19 (2023, Tuesday, October 10th at 06:16 pm PST)
+## [Version 19 (2023, Tuesday, October 10th at 06:16 pm PST)](#Version-19-2023-Tuesday-October-10th-at-06-16-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1488,9 +1662,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 20 (2023, Tuesday, October 17th at 04:49 pm PST)
+## [Version 20 (2023, Tuesday, October 17th at 04:49 pm PST)](#Version-20-2023-Tuesday-October-17th-at-04-49-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1512,9 +1686,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 21 (2023, Tuesday, October 24th at 06:09 pm PST)
+## [Version 21 (2023, Tuesday, October 24th at 06:09 pm PST)](#Version-21-2023-Tuesday-October-24th-at-06-09-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1539,9 +1713,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 22 (2023, Tuesday, October 31st at 10:15 pm PST)
+## [Version 22 (2023, Tuesday, October 31st at 10:15 pm PST)](#Version-22-2023-Tuesday-October-31st-at-10-15-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1565,9 +1739,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 23 (2023, Tuesday, November 7th at 09:52 pm PST)
+## [Version 23 (2023, Tuesday, November 7th at 09:52 pm PST)](#Version-23-2023-Tuesday-November-7th-at-09-52-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1591,9 +1765,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 24 (2023, Tuesday, November 14th at 04:41 pm PST)
+## [Version 24 (2023, Tuesday, November 14th at 04:41 pm PST)](#Version-24-2023-Tuesday-November-14th-at-04-41-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1617,9 +1791,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 25 (2023, Tuesday, November 21st at 05:32 pm PST)
+## [Version 25 (2023, Tuesday, November 21st at 05:32 pm PST)](#Version-25-2023-Tuesday-November-21st-at-05-32-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1643,9 +1817,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 26 (2023, Tuesday, November 28th at 06:53 pm PST)
+## [Version 26 (2023, Tuesday, November 28th at 06:53 pm PST)](#Version-26-2023-Tuesday-November-28th-at-06-53-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1669,9 +1843,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 27 (2023, Tuesday, December 5th at 05:19 pm PST)
+## [Version 27 (2023, Tuesday, December 5th at 05:19 pm PST)](#Version-27-2023-Tuesday-December-5th-at-05-19-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1695,9 +1869,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 28 (2023, Tuesday, December 12th at 03:54 pm PST)
+## [Version 28 (2023, Tuesday, December 12th at 03:54 pm PST)](#Version-28-2023-Tuesday-December-12th-at-03-54-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1721,9 +1895,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 29 (2023, Tuesday, December 19th at 04:31 pm PST)
+## [Version 29 (2023, Tuesday, December 19th at 04:31 pm PST)](#Version-29-2023-Tuesday-December-19th-at-04-31-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1747,9 +1921,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 30 (2023, Tuesday, December 26th at 06:08 pm PST)
+## [Version 30 (2023, Tuesday, December 26th at 06:08 pm PST)](#Version-30-2023-Tuesday-December-26th-at-06-08-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1773,9 +1947,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 31 (2024, Tuesday, January 2nd at 07:47 pm PST)
+## [Version 31 (2024, Tuesday, January 2nd at 07:47 pm PST)](#Version-31-2024-Tuesday-January-2nd-at-07-47-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1799,9 +1973,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 32 (2024, Tuesday, January 9th at 04:55 pm PST)
+## [Version 32 (2024, Tuesday, January 9th at 04:55 pm PST)](#Version-32-2024-Tuesday-January-9th-at-04-55-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1827,9 +2001,9 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 
 ---
 
-## Version 33 (2024, Tuesday, January 16th at 04:48 pm PST)
+## [Version 33 (2024, Tuesday, January 16th at 04:48 pm PST)](#Version-33-2024-Tuesday-January-16th-at-04-48-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1847,16 +2021,15 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 33
-- [x] Updated the footer
 - [ ] No other changes in version 33
 
 </details> <!-- End of file history: V33 !-->
 
 ---
 
-## Version 34 (2024, Tuesday, January 23rd at 05:33 pm PST)
+## [Version 34 (2024, Tuesday, January 23rd at 05:33 pm PST)](#Version-34-2024-Tuesday-January-23rd-at-05-33-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1874,16 +2047,15 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 34
-- [x] Updated the footer
 - [ ] No other changes in version 34
 
 </details> <!-- End of file history: V34 !-->
 
 ---
 
-## Version 35 (2024, Tuesday, January 30th at 05:28 pm PST)
+## [Version 35 (2024, Tuesday, January 30th at 05:28 pm PST)](#Version-35-2024-Tuesday-January-30th-at-05-28-pm-PST)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -1902,12 +2074,50 @@ Data from Takeout Tuesdays is additionally used as a data source feed for my [:o
 - [x] Updated the `File history` section
 - - [x] Added an entry for version 35
 - - [x] Fixed a typo in the entries for version 31, 32, 33, and 34
-- [x] Updated the footer
 - [ ] No other changes in version 35
 
 </details> <!-- End of file history: V35 !-->
 
 ---
+
+## [Version 36 (2024, Tuesday, February 6th at 03:02 pm PST)](#Version-36-2024-Tuesday-February-6th-at-03-04-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data. Some major formatting changes were also made._
+
+> Changes:
+
+- [x] Several document-wide formatting changes
+- [x] Added the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 36
+- - [x] Added the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 36` subsection
+- - - [x] Added blank entries for Takeout Tuesday 71 and 72
+- [x] Updated the `Feeds` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added anchor links to all headings
+- - [x] Fixed a typo in the entries for version 33, 34, and 35
+- - [x] Added an entry for version 36
+- [ ] No other changes in version 36
+
+</details> <!-- End of file history: V36 !-->
+
+---
+
+<!-- TODO:FILE HISTORY SECTION
+After each release, remove the `open` attribute from the previous version, and
+add it to the newest release. Do this every week (every Tuesday, when the
+file is updated)  !-->
+
+***End of file history section***
 
 </details>
 
