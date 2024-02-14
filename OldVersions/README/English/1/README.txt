@@ -136,6 +136,8 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Takeout Tuesday 70`](#Takeout-Tuesday-70) | Weekly timeline |
 | [`Takeout Tuesday 71`](#Takeout-Tuesday-71) | Weekly timeline |
 | [`Takeout Tuesday 72`](#Takeout-Tuesday-72) | Weekly timeline |
+| [`Takeout Tuesday 73`](#Takeout-Tuesday-73) | Weekly timeline |
+| [`Takeout Tuesday 74`](#Takeout-Tuesday-74) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`File info`](#File-info) | Body/Summary |
 | [`File history`](#File-history) | File history |
@@ -175,6 +177,7 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Version 34 (2024, Tuesday, January 23rd at 05:33 pm PST)`](#Version-34-2024-Tuesday-January-23rd-at-05-33-pm-PST) | File history |
 | [`Version 35 (2024, Tuesday, January 30th at 05:28 pm PST)`](#Version-35-2024-Tuesday-January-30th-at-05-28-pm-PST) | File history |
 | [`Version 36 (2024, Tuesday, February 6th at 03:02 pm PST)`](#Version-36-2024-Tuesday-February-6th-at-03-04-pm-PST) | File history |
+| [`Version 37 (2024, Tuesday, February 13th at 06:00 pm PST)`](#Version-37-2024-Tuesday-February-13th-at-06-00-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 
@@ -255,7 +258,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 34`](#Takeout-Tuesday-34) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 35`](#Takeout-Tuesday-35) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** `ProtonPass` ***(*** `Seanpm2001` ***)*** |
 | [`Week 36`](#Takeout-Tuesday-36) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 37`](#Takeout-Tuesday-37) | `TBD` |
+| [`Week 37`](#Takeout-Tuesday-37) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 38`](#Takeout-Tuesday-38) | `TBD` |
 | [`Week 39`](#Takeout-Tuesday-39) | `TBD` |
 | [`Week 40`](#Takeout-Tuesday-40) | `TBD` |
@@ -291,6 +294,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 70`](#Takeout-Tuesday-70) | `TBD` |
 | [`Week 71`](#Takeout-Tuesday-71) | `TBD` |
 | [`Week 72`](#Takeout-Tuesday-72) | `TBD` |
+| [`Week 73`](#Takeout-Tuesday-73) | `TBD` |
+| [`Week 74`](#Takeout-Tuesday-74) | `TBD` |
 
 </details>
 
@@ -760,8 +765,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, February 13th `
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout today. I did all of my Mastodon boosts on Monday, but made no source posts. This project is keeping up with weekly progress on some of my online media, mostly Mastodon. The project doesn't have to try much harder, or be special to reach its objective right now. I have not lost hope on a potential return to the TRDLF project that is connected to this project.`
 
 </details> <!-- End of TT37 !-->
 
@@ -1187,6 +1192,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 ---
 
+### [Takeout Tuesday 73](#Takeout-Tuesday-73)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, October 22nd`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT73 !-->
+
+---
+
+### [Takeout Tuesday 74](#Takeout-Tuesday-74)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, October 29th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT74 !-->
+
+---
+
 ***End of Weekly timeline***
 
 </details> <!-- End of weekly timeline !-->
@@ -1216,12 +1245,12 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `36 (2024, Tuesday, February 6th at 03:04 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,150`
-- **Word count:** `013,697`
-- **Character count (including spaces):** `091,996`
-- **Character count (excluding spaces):** `078,301`
-- **Size (in bytes):** `092,019`
+- **File version:** `37 (2024, Tuesday, February 13th at 06:00 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,209`
+- **Word count:** `014,067`
+- **Character count (including spaces):** `094,508`
+- **Character count (excluding spaces):** `080,431`
+- **Size (in bytes):** `094,531`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2109,6 +2138,36 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 - [ ] No other changes in version 36
 
 </details> <!-- End of file history: V36 !-->
+
+---
+
+## [Version 37 (2024, Tuesday, February 13th at 06:00 pm PST)](#Version-37-2024-Tuesday-February-13th-at-06-00-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data._
+
+> Changes:
+
+- [x] Several document-wide formatting changes
+- [x] Added the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 37
+- - [x] Added the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 37` subsection
+- - - [x] Added blank entries for Takeout Tuesday 73 and 74
+- [x] Updated the `Feeds` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 37
+- [ ] No other changes in version 37
+
+</details> <!-- End of file history: V37 !-->
 
 ---
 
