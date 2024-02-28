@@ -140,6 +140,8 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Takeout Tuesday 74`](#Takeout-Tuesday-74) | Weekly timeline |
 | [`Takeout Tuesday 75`](#Takeout-Tuesday-75) | Weekly timeline |
 | [`Takeout Tuesday 76`](#Takeout-Tuesday-76) | Weekly timeline |
+| [`Takeout Tuesday 77`](#Takeout-Tuesday-77) | Weekly timeline |
+| [`Takeout Tuesday 78`](#Takeout-Tuesday-78) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`File info`](#File-info) | Body/Summary |
 | [`File history`](#File-history) | File history |
@@ -181,6 +183,7 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Version 36 (2024, Tuesday, February 6th at 03:02 pm PST)`](#Version-36-2024-Tuesday-February-6th-at-03-04-pm-PST) | File history |
 | [`Version 37 (2024, Tuesday, February 13th at 06:00 pm PST)`](#Version-37-2024-Tuesday-February-13th-at-06-00-pm-PST) | File history |
 | [`Version 38 (2024, Tuesday, February 20th at 06:20 pm PST)`](#Version-38-2024-Tuesday-February-20th-at-06-20-pm-PST) | File history |
+| [`Version 39 (2024, Tuesday, February 27th at 07:03 pm PST)`](#Version-39-2024-Tuesday-February-27th-at-07-03-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 
@@ -301,6 +304,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 74`](#Takeout-Tuesday-74) | `TBD` |
 | [`Week 75`](#Takeout-Tuesday-75) | `TBD` |
 | [`Week 76`](#Takeout-Tuesday-76) | `TBD` |
+| [`Week 77`](#Takeout-Tuesday-77) | `TBD` |
+| [`Week 78`](#Takeout-Tuesday-78) | `TBD` |
 
 </details>
 
@@ -794,8 +799,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, February 27th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout today. I was less active on Mastodon this week. I am still hoping for a return to the TRDLF project eventually. Today was merely a consistency update day.`
 
 </details> <!-- End of TT39 !-->
 
@@ -1245,6 +1250,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 ---
 
+### [Takeout Tuesday 77](#Takeout-Tuesday-77)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, November 19th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT77 !-->
+
+---
+
+### [Takeout Tuesday 78](#Takeout-Tuesday-78)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2024, Tuesday, November 26th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT78 !-->
+
+---
+
 ***End of Weekly timeline***
 
 </details> <!-- End of weekly timeline !-->
@@ -1274,12 +1303,12 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `38 (2024, Tuesday, February 20th at 06:20 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,268`
-- **Word count:** `014,399`
-- **Character count (including spaces):** `096,814`
-- **Character count (excluding spaces):** `082,393`
-- **Size (in bytes):** `096,837`
+- **File version:** `39 (2024, Tuesday, February 27th at 07:03 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,327`
+- **Word count:** `014,726`
+- **Character count (including spaces):** `099,072`
+- **Character count (excluding spaces):** `084,311`
+- **Size (in bytes):** `099,095`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2227,6 +2256,36 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 - [ ] No other changes in version 38
 
 </details> <!-- End of file history: V38 !-->
+
+---
+
+## [Version 39 (2024, Tuesday, February 27th at 07:03 pm PST)](#Version-39-2024-Tuesday-February-27th-at-07-03-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data._
+
+> Changes:
+
+- [x] Several document-wide formatting changes
+- [x] Added the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 39
+- - [x] Added the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 39` subsection
+- - - [x] Added blank entries for Takeout Tuesday 77 and 78
+- [x] Updated the `Feeds` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 39
+- [ ] No other changes in version 39
+
+</details> <!-- End of file history: V39 !-->
 
 ---
 
