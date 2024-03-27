@@ -148,6 +148,8 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Takeout Tuesday 82`](#Takeout-Tuesday-82) | Weekly timeline |
 | [`Takeout Tuesday 83`](#Takeout-Tuesday-83) | Weekly timeline |
 | [`Takeout Tuesday 84`](#Takeout-Tuesday-84) | Weekly timeline |
+| [`Takeout Tuesday 85`](#Takeout-Tuesday-85) | Weekly timeline |
+| [`Takeout Tuesday 86`](#Takeout-Tuesday-86) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`File info`](#File-info) | Body/Summary |
 | [`File history`](#File-history) | File history |
@@ -193,6 +195,7 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Version 40 (2024, Tuesday, March 5th at 07:20 pm PST)`](#Version-40-2024-Tuesday-March-5th-at-07-20-pm-PST) | File history |
 | [`Version 41 (2024, Tuesday, March 12th at 05:38 pm PST)`](#Version-41-2024-Tuesday-March-12th-at-05-38-pm-PST) | File history |
 | [`Version 42 (2024, Tuesday, March 19th at 04:10 pm PST)`](#Version-42-2024-Tuesday-March-19th-at-04-10-pm-PST) | File history |
+| [`Version 43 (2024, Tuesday, March 26th at 06:55 pm PST)`](#Version-43-2024-Tuesday-March-26th-at-06-55-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 
@@ -279,7 +282,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 40`](#Takeout-Tuesday-40) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 41`](#Takeout-Tuesday-41) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 42`](#Takeout-Tuesday-42) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 43`](#Takeout-Tuesday-43) | `TBD` |
+| [`Week 43`](#Takeout-Tuesday-43) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 44`](#Takeout-Tuesday-44) | `TBD` |
 | [`Week 45`](#Takeout-Tuesday-45) | `TBD` |
 | [`Week 46`](#Takeout-Tuesday-46) | `TBD` |
@@ -321,6 +324,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 82`](#Takeout-Tuesday-82) | `TBD` |
 | [`Week 83`](#Takeout-Tuesday-83) | `TBD` |
 | [`Week 84`](#Takeout-Tuesday-84) | `TBD` |
+| [`Week 85`](#Takeout-Tuesday-85) | `TBD` |
+| [`Week 86`](#Takeout-Tuesday-86) | `TBD` |
 
 </details>
 
@@ -862,8 +867,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, March 26th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again today. I didn't think too much about the takeout process today, but I still got it done in time. I have been busy with some new projects. I am still considering doing a Bandcamp data takeout, to see what the process is like there.`
 
 </details> <!-- End of TT43 !-->
 
@@ -1361,6 +1366,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 ---
 
+### [Takeout Tuesday 85](#Takeout-Tuesday-85)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2025, Tuesday, January 14th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT85 !-->
+
+---
+
+### [Takeout Tuesday 86](#Takeout-Tuesday-86)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2025, Tuesday, January 21st`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT86 !-->
+
+---
+
 ***End of Weekly timeline***
 
 </details> <!-- End of weekly timeline !-->
@@ -1390,12 +1419,12 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `42 (2024, Tuesday, March 19th at 04:10 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,504`
-- **Word count:** `015,861`
-- **Character count (including spaces):** `106,843`
-- **Character count (excluding spaces):** `090,908`
-- **Size (in bytes):** `106,866`
+- **File version:** `43 (2024, Tuesday, March 26th at 06:55 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,563`
+- **Word count:** `016,215`
+- **Character count (including spaces):** `109,258`
+- **Character count (excluding spaces):** `092,957`
+- **Size (in bytes):** `109,281`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2463,6 +2492,36 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 - [ ] No other changes in version 42
 
 </details> <!-- End of file history: V42 !-->
+
+---
+
+## [Version 43 (2024, Tuesday, March 26th at 06:55 pm PST)](#Version-43-2024-Tuesday-March-26th-at-06-55-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data. It was almost forgotten multiple times._
+
+> Changes:
+
+- [x] Several document-wide formatting changes
+- [x] Added the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 43
+- - [x] Added the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 43` subsection
+- - - [x] Added blank entries for Takeout Tuesday 85 and 86
+- [x] Updated the `Feeds` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 43
+- [ ] No other changes in version 43
+
+</details> <!-- End of file history: V43 !-->
 
 ---
 
