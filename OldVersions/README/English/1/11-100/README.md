@@ -152,6 +152,8 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Takeout Tuesday 86`](#Takeout-Tuesday-86) | Weekly timeline |
 | [`Takeout Tuesday 87`](#Takeout-Tuesday-87) | Weekly timeline |
 | [`Takeout Tuesday 88`](#Takeout-Tuesday-88) | Weekly timeline |
+| [`Takeout Tuesday 89`](#Takeout-Tuesday-89) | Weekly timeline |
+| [`Takeout Tuesday 90`](#Takeout-Tuesday-90) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`File info`](#File-info) | Body/Summary |
 | [`File history`](#File-history) | File history |
@@ -199,6 +201,7 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Version 42 (2024, Tuesday, March 19th at 04:10 pm PST)`](#Version-42-2024-Tuesday-March-19th-at-04-10-pm-PST) | File history |
 | [`Version 43 (2024, Tuesday, March 26th at 06:55 pm PST)`](#Version-43-2024-Tuesday-March-26th-at-06-55-pm-PST) | File history |
 | [`Version 44 (2024, Tuesday, April 2nd at 01:35 pm PST)`](#Version-44-2024-Tuesday-April-2nd-at-01-35-pm-PST) | File history |
+| [`Version 45 (2024, Tuesday, April 9th at 03:00 pm PST)`](#Version-45-2024-Tuesday-April-9th-at-03-00-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 
@@ -287,7 +290,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 42`](#Takeout-Tuesday-42) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 43`](#Takeout-Tuesday-43) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 44`](#Takeout-Tuesday-44) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 45`](#Takeout-Tuesday-45) | `TBD` |
+| [`Week 45`](#Takeout-Tuesday-45) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** `Archive.org` ***{*** `@seanwallawalla` ***}*** |
 | [`Week 46`](#Takeout-Tuesday-46) | `TBD` |
 | [`Week 47`](#Takeout-Tuesday-47) | `TBD` |
 | [`Week 48`](#Takeout-Tuesday-48) | `TBD` |
@@ -331,6 +334,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 86`](#Takeout-Tuesday-86) | `TBD` |
 | [`Week 87`](#Takeout-Tuesday-87) | `TBD` |
 | [`Week 88`](#Takeout-Tuesday-88) | `TBD` |
+| [`Week 89`](#Takeout-Tuesday-89) | `TBD` |
+| [`Week 90`](#Takeout-Tuesday-90) | `TBD` |
 
 </details>
 
@@ -896,8 +901,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, April 9th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** `Archive.org` ***{*** `@seanwallawalla` ***)***
+- **Note:** `I did my weekly Mastodon takeout again today. I was much more active on Mastodon this week. I created a new Internet Archive account yesterday, and have begun to use it extensively. Surprisingly, there is no option for a data takeout. Out of all of the sites that I have taken out/tried to take out, archive.org is the last site I would expect to not have this option. I am also still considering doing a Bandcamp data takeout, to see what the process is like there.`
 
 </details> <!-- End of TT45 !-->
 
@@ -1419,6 +1424,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 ---
 
+### [Takeout Tuesday 89](#Takeout-Tuesday-89)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2025, Tuesday, February 11th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT89 !-->
+
+---
+
+### [Takeout Tuesday 90](#Takeout-Tuesday-90)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2025, Tuesday, February 18th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT90 !-->
+
+---
+
 ***End of Weekly timeline***
 
 </details> <!-- End of weekly timeline !-->
@@ -1448,12 +1477,12 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `44 (2024, Tuesday, April 2nd at 01:35 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,622`
-- **Word count:** `016,555`
-- **Character count (including spaces):** `111,595`
-- **Character count (excluding spaces):** `094,941`
-- **Size (in bytes):** `111,618`
+- **File version:** `45 (2024, Tuesday, April 9th at 03:00 pm PST)`
+- **Line count (including blank lines and compiler line):** `2,681`
+- **Word count:** `016,945`
+- **Character count (including spaces):** `114,261`
+- **Character count (excluding spaces):** `097,204`
+- **Size (in bytes):** `114,284`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -2581,6 +2610,36 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 - [ ] No other changes in version 44
 
 </details> <!-- End of file history: V44 !-->
+
+---
+
+## [Version 45 (2024, Tuesday, April 9th at 03:00 pm PST)](#Version-45-2024-Tuesday-April-9th-at-03-00-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data._
+
+> Changes:
+
+- [x] Several document-wide formatting changes
+- [x] Added the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 45
+- - [x] Added the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 45` subsection
+- - - [x] Added blank entries for Takeout Tuesday 89 and 90
+- [x] Updated the `Feeds` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 45
+- [ ] No other changes in version 45
+
+</details> <!-- End of file history: V45 !-->
 
 ---
 
