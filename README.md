@@ -22,6 +22,7 @@
 | **📆️ Add this event to your calendar:** |
 |---|
 | [`Download *.ics file`](/Resources/Calendar/ICS/Download/V2/Takeout_Tuesdays_V2.zip?raw=true")
+| <p align="center"><b> 🗓️ Add this event to your calendar:</b></p> |
 
 I couldn't get GitHub to just directly download the ICS file, so I had to zip the file to make it downloadable.
 
@@ -35,6 +36,10 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 
 **Supported by:**
 
+<table>
+  <tr>
+    <td>
+
 - ProtonMail
 - Microsoft OutLook
 - Hotmail
@@ -44,9 +49,15 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 - Kontact
 - Other email services and programs that support `*.ics` files
 
+    </td>
+  </tr>
+</table>
+
 </details> <!-- End of title/lead section !-->
 
 ***
+
+<!-- /%/2001_INDEX_SECTION.BEGIN\%\ !-->
 
 # [Table of Contents](#Table-of-contents)
 
@@ -161,6 +172,8 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Takeout Tuesday 94`](#Takeout-Tuesday-94) | Weekly timeline |
 | [`Takeout Tuesday 95`](#Takeout-Tuesday-95) | Weekly timeline |
 | [`Takeout Tuesday 96`](#Takeout-Tuesday-96) | Weekly timeline |
+| [`Takeout Tuesday 97`](#Takeout-Tuesday-97) | Weekly timeline |
+| [`Takeout Tuesday 98`](#Takeout-Tuesday-98) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`File info`](#File-info) | Body/Summary |
 | [`File history`](#File-history) | File history |
@@ -211,11 +224,15 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Version 45 (2024, Tuesday, April 9th at 03:00 pm PST)`](#Version-45-2024-Tuesday-April-9th-at-03-00-pm-PST) | File history |
 | [`Version 46 (2024, Tuesday, April 16th at 02:34 pm PST)`](#Version-46-2024-Tuesday-April-16th-at-02-34-pm-PST) | File history |
 | [`Version 47 (2024, Tuesday, April 23rd at 01:35 pm PST)`](#Version-47-2024-Tuesday-April-23rd-at-01-35-pm-PST) | File history |
-| [`Version 47 (2024, Tuesday, April 30th at 12:21 pm PST)`](#Version-48-2024-Wednesday-April-30th-at-12-21-pm-PST) | File history |
+| [`Version 48 (2024, Tuesday, April 30th at 12:21 pm PST)`](#Version-48-2024-Tuesday-April-30th-at-12-21-pm-PST) | File history |
+| [`Version 49 (2024, Tuesday, May 7th at 04:02 pm PST)`](#Version-49-2024-Tuesday-May-7th-at-04-02-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
+| Name | Category/section |
 
 </details> <!-- End of ToC !-->
+
+<!-- /%/2001_INDEX_SECTION.END\%\ !-->
 
 ***
 
@@ -304,7 +321,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 46`](#Takeout-Tuesday-46) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 47`](#Takeout-Tuesday-47) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 48`](#Takeout-Tuesday-48) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 49`](#Takeout-Tuesday-49) | `TBD` |
+| [`Week 49`](#Takeout-Tuesday-49) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 50`](#Takeout-Tuesday-50) | `TBD` |
 | [`Week 51`](#Takeout-Tuesday-51) | `TBD` |
 | [`Week 52`](#Takeout-Tuesday-52) | `TBD` |
@@ -350,8 +367,13 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 92`](#Takeout-Tuesday-92) | `TBD` |
 | [`Week 93`](#Takeout-Tuesday-93) | `TBD` |
 | [`Week 94`](#Takeout-Tuesday-94) | `TBD` |
+| [`Week 95`](#Takeout-Tuesday-95) | `TBD` |
+| [`Week 96`](#Takeout-Tuesday-96) | `TBD` |
+| [`Week 97`](#Takeout-Tuesday-97) | `TBD` |
+| [`Week 98`](#Takeout-Tuesday-98) | `TBD` |
+| 🗓️ Week | Target 🎯️ |
 
-**Last updated:** `2024, Tuesday, April 23rd`
+**Last updated:** `2024, Tuesday, May 7th`
 
 </details> <!-- End of Takeout target summary table !-->
 
@@ -1013,8 +1035,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, May 7th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again today. I was slightly less active on Mastodon this week. I now get to see if private mentions show up in the logs. I am still considering doing a Bandcamp data takeout. I slightly renovated the Takeout Tuesdays documentation this week, and earlier this week, I created a new documentation repository for the project.`
 
 </details> <!-- End of TT49 !-->
 
@@ -1582,8 +1604,6 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT96 !-->
 
-<!--
-
 ---
 
 ### [Takeout Tuesday 97](#Takeout-Tuesday-97)
@@ -1594,7 +1614,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT97 !-- >
+</details> <!-- End of TT97 !-->
 
 ---
 
@@ -1606,9 +1626,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT98 !-- >
-
-!-->
+</details> <!-- End of TT98 !-->
 
 <!--
 
@@ -1635,6 +1653,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Note:** `None yet`
 
 </details> <!-- End of TT100 !-- >
+
+---
+
+### [Takeout Tuesday 101](#Takeout-Tuesday-101)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2025, Tuesday, May 6th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT101 !-- >
+
+---
+
+### [Takeout Tuesday 102](#Takeout-Tuesday-102)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2025, Tuesday, May 13th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT102 !-- >
 
 !-->
 
@@ -1674,20 +1716,30 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 
 ***
 
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
+
 # [File info](#File-info)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section (file info)]</b></p></summary>
 
+<table>
+  <tr>
+    <td>
+
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `48 (2024, Tuesday, April 30th at 12:21 pm PST)`
-- **Line count (including blank lines and compiler line):** `2,968`
-- **Word count:** `018,474`
-- **Character count (including spaces):** `125,732`
-- **Character count (excluding spaces):** `106,757`
-- **Size (in bytes):** `125,991`
+- **File version:** `49 (2024, Tuesday, May 7th at 04:02 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,073`
+- **Word count:** `018,962`
+- **Character count (including spaces):** `129,188`
+- **Character count (excluding spaces):** `109,659`
+- **Size (in bytes):** `129,462`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+    </td>
+  </tr>
+</table>
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
@@ -1695,7 +1747,11 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 
 </details> <!-- End of File info section !-->
 
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
+
 ***
+
+<!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
 
 # [File history](#File-history)
 
@@ -2874,7 +2930,7 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 - - [x] Updated the `History overview` subsection
 - - - [x] Updated the `Target summary` sub-subsection
 - - - - - [x] Added links to 2 sections
-- - - - - [x] Filled in data for week 46
+- - - - - [x] Filled in data for week 47
 - - - [x] Added the `Target history` sub-subsection
 - - [x] Added the `Weekly timeline` subsection
 - - - [x] Updated the `Takeout Tuesday 47` subsection
@@ -2905,7 +2961,7 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 - - [x] Updated the `History overview` subsection
 - - - [x] Updated the `Target summary` sub-subsection
 - - - - - [x] Added links to 2 sections
-- - - - - [x] Filled in data for week 47
+- - - - - [x] Filled in data for week 48
 - - - [x] Updated the `Target history` sub-subsection
 - - - - [x] Added new data for this week
 - - - - [x] Added the `Total` row
@@ -2922,6 +2978,41 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 
 ---
 
+## [Version 49 (2024, Tuesday, May 7th at 04:02 pm PST)](#Version-49-2024-Tuesday-May-7th-at-04-02-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data._
+
+> Changes:
+
+- [x] Added new HTML style Markdown tables
+- [x] Added comment headings for the `Index/Table of Contents` `File info` `File history` and `Footer` sections.
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 49
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - - - [x] Added the `Total` row
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 49` subsection
+- - - [x] Added blank entries for Takeout Tuesday 97 and 98
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 49
+- - [x] Corrected some errors in entries for versions 47 and 48
+- [x] Updated the `Footer` section
+- [ ] No other changes in version 49
+
+</details> <!-- End of file history: V48 !-->
+
+---
+
 <!-- TODO:FILE HISTORY SECTION
 After each release, remove the `open` attribute from the previous version, and
 add it to the newest release. Do this every week (every Tuesday, when the
@@ -2931,7 +3022,11 @@ file is updated)  !-->
 
 </details> <!-- End of file history section !-->
 
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
+
 ***
+
+<!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
 
 # [Footer](#Footer)
 
@@ -2939,12 +3034,20 @@ file is updated)  !-->
 
 **You have reached the end of this file.**
 
+<table>
+  <tr>
+    <td>
+
 - [`Back to top`](#Top)
 - [:octocat: `Exit to GitHub`](https://github.com/)
 - [:octocat: `Exit to Bing`](https://bing.com/)
 - [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
 - [:octocat: `Exit to Ecosia`](https://ecosia.org/)
 - [:octocat: `Exit to Swisscows`](https://swisscows.com/)
+
+    </td>
+  </tr>
+</table>
 
 ###### [EOF](#EOF)
 
@@ -2963,5 +3066,7 @@ File
 _End of page._
 
 </details> <!-- End of page !-->
+
+<!-- /%/2001_FOOTER_SECTION.END\%\ !-->
 
 ***
