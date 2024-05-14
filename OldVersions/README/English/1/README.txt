@@ -174,7 +174,11 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Takeout Tuesday 96`](#Takeout-Tuesday-96) | Weekly timeline |
 | [`Takeout Tuesday 97`](#Takeout-Tuesday-97) | Weekly timeline |
 | [`Takeout Tuesday 98`](#Takeout-Tuesday-98) | Weekly timeline |
+| [`Takeout Tuesday 99`](#Takeout-Tuesday-99) | Weekly timeline |
+| [`Takeout Tuesday 100`](#Takeout-Tuesday-100) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
+| [`Extras`](#Extras) | Body/Info |
+| [`Stars that need to align for a Google backup`](#Stars-that-need-to-align-for-a-Google-backup) | Body/Info |
 | [`File info`](#File-info) | Body/Summary |
 | [`File history`](#File-history) | File history |
 | [`Version 1 (2023, Tuesday, June 20th at 05:05 pm PST)`](#Version-1-2023-Tuesday-June-20th-at-05-05-pm-PST) | File history |
@@ -226,6 +230,7 @@ I couldn't get GitHub to just directly download the ICS file, so I had to zip th
 | [`Version 47 (2024, Tuesday, April 23rd at 01:35 pm PST)`](#Version-47-2024-Tuesday-April-23rd-at-01-35-pm-PST) | File history |
 | [`Version 48 (2024, Tuesday, April 30th at 12:21 pm PST)`](#Version-48-2024-Tuesday-April-30th-at-12-21-pm-PST) | File history |
 | [`Version 49 (2024, Tuesday, May 7th at 04:02 pm PST)`](#Version-49-2024-Tuesday-May-7th-at-04-02-pm-PST) | File history |
+| [`Version 50 (2024, Tuesday, May 14th at 01:15 pm PST)`](#Version-50-2024-Tuesday-May-14th-at-01-15-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 | Name | Category/section |
@@ -322,7 +327,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 47`](#Takeout-Tuesday-47) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 48`](#Takeout-Tuesday-48) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 49`](#Takeout-Tuesday-49) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 50`](#Takeout-Tuesday-50) | `TBD` |
+| [`Week 50`](#Takeout-Tuesday-50) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 51`](#Takeout-Tuesday-51) | `TBD` |
 | [`Week 52`](#Takeout-Tuesday-52) | `TBD` |
 | [`Week 53`](#Takeout-Tuesday-53) | `TBD` |
@@ -371,9 +376,11 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 96`](#Takeout-Tuesday-96) | `TBD` |
 | [`Week 97`](#Takeout-Tuesday-97) | `TBD` |
 | [`Week 98`](#Takeout-Tuesday-98) | `TBD` |
+| [`Week 99`](#Takeout-Tuesday-99) | `TBD` |
+| [`Week 100`](#Takeout-Tuesday-100) | `TBD` |
 | 🗓️ Week | Target 🎯️ |
 
-**Last updated:** `2024, Tuesday, May 7th`
+**Last updated:** `2024, Tuesday, May 14th`
 
 </details> <!-- End of Takeout target summary table !-->
 
@@ -392,8 +399,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **Quora** | `❌️ No` | `0` **/** `6` | `1` |
 | **Tumblr** | `✅️ Yes` | `5` **/** `6` | `1` |
 | **ProtonMail** | `✅️ Yes` | `5` **/** `6` | `1` |
-| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `28` |
-| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~490 (as of 2024, April 30th)` |
+| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `29` `(as of 2024, Tuesday, May 14th)` ||
+| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~654 (as of 2024, Tuesday, May 14th)` |
 | **Instagram** | `✅️ Yes` | `4` **/** `6` | `1` |
 | **Facebook** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Google Account** | `✅️ Yes` | `4` **/** `6` | `1` |
@@ -418,10 +425,10 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **BitBucket** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **SourceForge** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **Ditty.it** | `❌️ No` | `?` **/** `6` | `0` |
-| ***Overall total*** | `19` **/** `33` | `41` **/** `198` | _~560 data takeouts_ |
+| ***Overall total*** | `19` **/** `33` | `41` **/** `198` | _~725 data takeouts_ |
 | 🎯️ Site target 🌐️ | 🥡️ Can be taken out 🗄️ | ✳️ TRDLF Score ✴️ | #️⃣️ Number of takeouts *️⃣️ |
 
-**Last updated:** `2024, Tuesday, April 30th`
+**Last updated:** `2024, Tuesday, May 14th`
 
 </details> <!-- End of Takeout target history table !-->
 
@@ -1047,8 +1054,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, May 14th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again today. I was slightly less active on Mastodon this week. I am still considering doing a Bandcamp data takeout. I have been doing this task for 50 weeks now, nearly a full year. I have also been making plans for a Google account backup, and created a section in this document regarding it.`
 
 </details> <!-- End of TT50 !-->
 
@@ -1628,8 +1635,6 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 </details> <!-- End of TT98 !-->
 
-<!--
-
 ---
 
 ### [Takeout Tuesday 99](#Takeout-Tuesday-99)
@@ -1640,7 +1645,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT99 !-- >
+</details> <!-- End of TT99 !-->
 
 ---
 
@@ -1652,7 +1657,9 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT100 !-- >
+</details> <!-- End of TT100 !-->
+
+<!--
 
 ---
 
@@ -1677,6 +1684,30 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 - **Note:** `None yet`
 
 </details> <!-- End of TT102 !-- >
+
+---
+
+### [Takeout Tuesday 103](#Takeout-Tuesday-103)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2025, Tuesday, May 20th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT103 !-- >
+
+---
+
+### [Takeout Tuesday 104](#Takeout-Tuesday-104)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2025, Tuesday, May 27th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT104 !-- >
 
 !-->
 
@@ -1716,6 +1747,43 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 
 ***
 
+## [Extras](#Extras)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section (extras)]</b></p></summary>
+
+### [Stars that need to align for a Google backup](#Stars-that-need-to-align-for-a-Google-backup)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section (stars that need to align for a Google backup)]</b></p></summary>
+
+**Stars that need to align for a Google backup**
+
+I need to backup my main Google account eventually. There are some stars that need to align before I can start the backup process. They include:
+
+- [ ] 7.8 terabytes of free space on an internal hard drive, 1.0 terabytes of easy access free space on an external hard drive
+- [ ] Strong Internet
+- [ ] Internet outage within the past 48 hours
+- [ ] Good time management
+
+I plan to buy an 8 terabyte internal hard drive, and install it into my Dell Tower. I won't place files on it before the backup process starts, and even then, since it is about 8.6 terabytes, I will need to have a terabyte handy to copy files from the tower to an external device, in order to finish the backup and fill the drive.
+
+I will need a strong and stable Internet connection that can handle 2 terabytes of downloads per day, as I am only given 168 hours (7 days) for the entire takeout,, and I won't have the time to check it every minute of the day.
+
+I also plan to wait for an Internet outage, as then, the chance of an Internet outage disrupting the process goes down significantly.
+
+I will also need better control of my time and my schedule.
+
+I am glad hard drive prices have come down so much in the past 8 years. I remember when a single terabyte costs over $100. Now, you can buy 8 terabytes for $125. Although it isn't solid state, it is still a lot.
+
+</details> <!-- End of Stars that need to align for a Google backup section !-->
+
+***
+
+_End of Extras section._
+
+</details> <!-- End of Extras section !-->
+
+***
+
 <!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
 
 # [File info](#File-info)
@@ -1727,12 +1795,12 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `49 (2024, Tuesday, May 7th at 04:02 pm PST)`
-- **Line count (including blank lines and compiler line):** `3,073`
-- **Word count:** `018,962`
-- **Character count (including spaces):** `129,188`
-- **Character count (excluding spaces):** `109,659`
-- **Size (in bytes):** `129,462`
+- **File version:** `50 (2024, Tuesday, May 14th at 01:15 pm PST)`
+- **Line count (including blank lines and compiler line):** `3,175`
+- **Word count:** `019,727`
+- **Character count (including spaces):** `133,922`
+- **Character count (excluding spaces):** `113,605`
+- **Size (in bytes):** `134,196`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3009,7 +3077,41 @@ I haven't gotten to updating this repository in a long time (it hasn't been upda
 - [x] Updated the `Footer` section
 - [ ] No other changes in version 49
 
-</details> <!-- End of file history: V48 !-->
+</details> <!-- End of file history: V49 !-->
+
+---
+
+## [Version 50 (2024, Tuesday, May 14th at 01:15 pm PST)](#Version-50-2024-Tuesday-May-14th-at-01-15-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data._
+
+> Changes:
+
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 50
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - - - [x] Added the `Total` row
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 50` subsection
+- - - [x] Added blank entries for Takeout Tuesday 99 and 100
+- [x] Added the `Extras` section
+- - [x] Added the `Stars that need to align for a Google backup` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 50
+- [x] Updated the `Footer` section
+- [ ] No other changes in version 50
+
+</details> <!-- End of file history: V50 !-->
 
 ---
 
