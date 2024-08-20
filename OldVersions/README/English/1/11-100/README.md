@@ -207,6 +207,8 @@ Add images for each service
 | [`Takeout Tuesday 124`](#Takeout-Tuesday-124) | Weekly timeline |
 | [`Takeout Tuesday 125`](#Takeout-Tuesday-125) | Weekly timeline |
 | [`Takeout Tuesday 126`](#Takeout-Tuesday-126) | Weekly timeline |
+| [`Takeout Tuesday 127`](#Takeout-Tuesday-127) | Weekly timeline |
+| [`Takeout Tuesday 128`](#Takeout-Tuesday-128) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`Extras`](#Extras) | Body/Info |
 | [`Stars that need to align for a Google backup`](#Stars-that-need-to-align-for-a-Google-backup) | Body/Info |
@@ -275,6 +277,7 @@ Add images for each service
 | [`Version 61 (2024, Tuesday, July 30th at 03:00 pm PST)`](#Version-61-2024-Tuesday-July-30th-at-03-00-pm-PST) | File history |
 | [`Version 62 (2024, Tuesday, August 6th at 03:07 pm PST)`](#Version-62-2024-Tuesday-August-6th-at-03-07-pm-PST) | File history |
 | [`Version 63 (2024, Tuesday, August 13th at 04:38 pm PST)`](#Version-63-2024-Tuesday-August-13th-at-04-38-pm-PST) | File history |
+| [`Version 64 (2024, Tuesday, August 20th at 02:50 pm PST)`](#Version-63-2024-Tuesday-August-13th-at-02-50-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 | Name | Category/section |
@@ -385,7 +388,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 61`](#Takeout-Tuesday-61) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 62`](#Takeout-Tuesday-62) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 63`](#Takeout-Tuesday-63) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 64`](#Takeout-Tuesday-64) | `TBD` |
+| [`Week 64`](#Takeout-Tuesday-64) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 65`](#Takeout-Tuesday-65) | `TBD` |
 | [`Week 66`](#Takeout-Tuesday-66) | `TBD` |
 | [`Week 67`](#Takeout-Tuesday-67) | `TBD` |
@@ -448,6 +451,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 124`](#Takeout-Tuesday-124) | `TBD` |
 | [`Week 125`](#Takeout-Tuesday-125) | `TBD` |
 | [`Week 126`](#Takeout-Tuesday-126) | `TBD` |
+| [`Week 127`](#Takeout-Tuesday-127) | `TBD` |
+| [`Week 128`](#Takeout-Tuesday-128) | `TBD` |
 | 🗓️ Week | Target 🎯️ |
 
 **Last updated:** `2024, Tuesday, August 13th`
@@ -469,8 +474,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **Quora** | `❌️ No` | `0` **/** `6` | `1` |
 | **Tumblr** | `✅️ Yes` | `5` **/** `6` | `1` |
 | **ProtonMail** | `✅️ Yes` | `5` **/** `6` | `1` |
-| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `42` `(as of 2024, Tuesday, Aguust 13th)` |
-| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~2879 (as of 2024, Tuesday, August 13th)` [`[1]`](#Note1) |
+| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `43` `(as of 2024, Tuesday, August 20th)` |
+| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~3054 (as of 2024, Tuesday, August 20th)` [`[1]`](#Note1) |
 | **Instagram** | `✅️ Yes` | `4` **/** `6` | `1` |
 | **Facebook** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Google Account** | `✅️ Yes` | `4` **/** `6` | `1` |
@@ -495,10 +500,10 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **BitBucket** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **SourceForge** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **Ditty.it** | `❌️ No` | `?` **/** `6` | `0` |
-| ***Overall total*** | `19` **/** `33` | `41` **/** `198` | _~3,013 data takeouts_ |
+| ***Overall total*** | `19` **/** `33` | `41` **/** `198` | _~3,189 data takeouts_ |
 | 🎯️ Site target 🌐️ | 🥡️ Can be taken out 🗄️ | ✳️ TRDLF Score ✴️ | #️⃣️ Number of takeouts *️⃣️ |
 
-**Last updated:** `2024, Tuesday, August 13th`
+**Last updated:** `2024, Tuesday, August 20th`
 
 ##### Note1
 
@@ -1293,6 +1298,7 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, July 2nd`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon again this week, mostly just bookmarking and starring posts. I am still considering doing a Bandcamp data takeout. I am still considering more takeout options, including all of the sites I listed in my online identity section of my GitHub profile. This was also the fourth week in which I also uploaded takeout pictures to the Takeout Tuesdays repository.`
 - **Backup size:**
 - - **Compressed:** `72,678,228 bytes (72.678 megabytes)`
@@ -1309,6 +1315,7 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, July 9th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was slightly more active on Mastodon again this week, but not posting, mostly just bookmarking and starring posts. I am still considering doing a Bandcamp data takeout, along with other takeout options, including all of the sites I listed in my online identity section of my GitHub profile. This was also the fifth week in which I also uploaded takeout pictures to the Takeout Tuesdays repository.`
 - **Backup size:**
 - - **Compressed:** `72,678,597 bytes (72.678 megabytes)`
@@ -1324,6 +1331,7 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, July 16th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was slightly more active on Mastodon again this week, boosting a couple of posts, but not making any original posts, mostly just bookmarking and starring posts. I am still considering doing a Bandcamp data takeout, along with other takeout options, including all of the sites I listed in my online identity section of my GitHub profile. This was also the sixth week in which I also uploaded takeout pictures to the Takeout Tuesdays repository.`
 - **Backup size:**
 - - **Compressed:** `72,678,972 bytes (72.678 megabytes)`
@@ -1339,6 +1347,7 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, July 23rd`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon this week, not making any original posts, mostly just bookmarking and starring posts. I am still considering doing a Bandcamp data takeout, along with other takeout options, including all of the sites I listed in my online identity section of my GitHub profile. This was also the seventh week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. I cannot get a good estimate for the takeout time, as I became distracted while doing a takeout. The time from the last takeout was used as a sample.`
 - **Backup size:**
 - - **Compressed:** `72,679,106 bytes (72.679 megabytes)`
@@ -1354,6 +1363,7 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, July 30th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon this week, not making any original posts, mostly just bookmarking and starring posts. I am still considering doing a Bandcamp data takeout, along with other takeout options, including all of the sites I listed in my online identity section of my GitHub profile. This was also the eighth week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. I got a good estimate of the takeout time this week. I really need to post something soon.`
 - **Backup size:**
 - - **Compressed:** `72,679,259 bytes (72.679 megabytes)`
@@ -1369,6 +1379,7 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, August 6th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon this week, not making any original posts, mostly just bookmarking and starring posts. I did gain a new follower, and block some users. This was also the ninth week in which I also uploaded takeout pictures to the Takeout Tuesdays repository.`
 - **Backup size:**
 - - **Compressed:** `72,679,405 bytes (72.679 megabytes)`
@@ -1384,6 +1395,7 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, August 13th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon this week, not making any original posts, mostly just bookmarking and starring posts. I have really been considering posting more, but I still haven't gotten to it. This was also the tenth week in which I also uploaded takeout pictures to the Takeout Tuesdays repository.`
 - **Backup size:**
 - - **Compressed:** `72,679,626 bytes (72.679 megabytes)`
@@ -1399,8 +1411,13 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, August 20th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again this week. Todays takeout meant much more to me, as I was extremely active on Mastodon last night. This takeout doesn't feel like just an incremental required weekly takeout. I worked on bringing new life to my account timeline, by following ~300 to ~600 hashtags, along with several users. I also made a post about it. I am working towards making my Mastodon feed like my old Reddit feed, but much, much better. This was also the eleventh week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. The size of the takeout didn't change as much as I expected it to.`
+- **Backup size:**
+- - **Compressed:** `72,680,953 bytes (72.680 megabytes)`
+- - **Uncompressed:** `80.0 megabytes` _(Ubuntu won't let me see the size in bytes here)_
+- - **Takeout time:** `~21 seconds` _(excluding download/download time)_
+
 
 </details> <!-- End of TT64 !-->
 
@@ -2149,8 +2166,6 @@ _End of section._
 
 </details> <!-- End of TT126 !-->
 
-<!--
-
 ---
 
 ### [Takeout Tuesday 127](#Takeout-Tuesday-127)
@@ -2161,7 +2176,7 @@ _End of section._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT127 !-- >
+</details> <!-- End of TT127 !-->
 
 ---
 
@@ -2173,7 +2188,9 @@ _End of section._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT128 !-- >
+</details> <!-- End of TT128 !-->
+
+<!--
 
 ---
 
@@ -2319,6 +2336,78 @@ _End of section._
 
 </details> <!-- End of TT140 !-- >
 
+---
+
+### [Takeout Tuesday 141](#Takeout-Tuesday-141)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2026, Tuesday, February 10th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT141 !-- >
+
+---
+
+### [Takeout Tuesday 142](#Takeout-Tuesday-142)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2026, Tuesday, February 17th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT142 !-- >
+
+---
+
+### [Takeout Tuesday 143](#Takeout-Tuesday-143)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2026, Tuesday, February 24th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT143 !-- >
+
+---
+
+### [Takeout Tuesday 144](#Takeout-Tuesday-144)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2026, Tuesday, March 3rd`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT144 !-- >
+
+---
+
+### [Takeout Tuesday 145](#Takeout-Tuesday-145)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2026, Tuesday, March 10th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT145 !-- >
+
+---
+
+### [Takeout Tuesday 146](#Takeout-Tuesday-146)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2026, Tuesday, March 17th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT146 !-- >
+
 !-->
 
 ---
@@ -2407,12 +2496,12 @@ _End of Extras section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `63 (2024, Tuesday, August 13th at 04:38 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,218`
-- **Word count:** `026,224`
-- **Character count (including spaces):** `179,283`
-- **Character count (excluding spaces):** `152,208`
-- **Size (in bytes):** `179,730`
+- **File version:** `64 (2024, Tuesday, August 20th at 02:50 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,343`
+- **Word count:** `026,919`
+- **Character count (including spaces):** `184,392`
+- **Character count (excluding spaces):** `156,577`
+- **Size (in bytes):** `184,839`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4155,6 +4244,42 @@ _End of Extras section._
 - [ ] No other changes in version 63
 
 </details> <!-- End of file history: V63 !-->
+
+---
+
+## [Version 64 (2024, Tuesday, August 20th at 02:50 pm PST)](#Version-64-2024-Tuesday-August-20th-at-02-50-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with notable new data._
+
+> Changes:
+
+- [x] Updated the `Index` section to include the new `Data takeout images` section
+- [x] Added the `Data takeout images` section
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 64
+- - - - - [x] Fixed the takeout target line in several entries (it wasn't present)
+- - - - - [x] Added commented blank entries for Takeout Tuesday 141 to Takeout Tuesday 146
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - - - [x] Added the `Total` row
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 62` subsection
+- - - [x] Added blank entries for Takeout Tuesday 127 and 128
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 64
+- [x] Updated the `Considerations` section
+- [ ] No other changes in version 64
+
+</details> <!-- End of file history: V64 !-->
 
 ---
 
