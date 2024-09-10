@@ -213,6 +213,8 @@ Add images for each service
 | [`Takeout Tuesday 130`](#Takeout-Tuesday-130) | Weekly timeline |
 | [`Takeout Tuesday 131`](#Takeout-Tuesday-131) | Weekly timeline |
 | [`Takeout Tuesday 132`](#Takeout-Tuesday-132) | Weekly timeline |
+| [`Takeout Tuesday 133`](#Takeout-Tuesday-133) | Weekly timeline |
+| [`Takeout Tuesday 134`](#Takeout-Tuesday-134) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`Extras`](#Extras) | Body/Info |
 | [`Stars that need to align for a Google backup`](#Stars-that-need-to-align-for-a-Google-backup) | Body/Info |
@@ -284,6 +286,7 @@ Add images for each service
 | [`Version 64 (2024, Tuesday, August 20th at 02:50 pm PST)`](#Version-64-2024-Tuesday-August-20th-at-02-50-pm-PST) | File history |
 | [`Version 65 (2024, Tuesday, August 27th at 02:33 pm PST)`](#Version-65-2024-Tuesday-August-27th-at-02-33-pm-PST) | File history |
 | [`Version 66 (2024, Tuesday, September 3rd at 04:44 pm PST)`](#Version-66-2024-Tuesday-September-3rd-at-04-44-pm-PST) | File history |
+| [`Version 67 (2024, Tuesday, September 10th at 03:23 pm PST)`](#Version-67-2024-Tuesday-September-10th-at-03-23-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 | Name | Category/section |
@@ -397,7 +400,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 64`](#Takeout-Tuesday-64) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 65`](#Takeout-Tuesday-65) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 66`](#Takeout-Tuesday-66) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 67`](#Takeout-Tuesday-67) | `TBD` |
+| [`Week 67`](#Takeout-Tuesday-67) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 68`](#Takeout-Tuesday-68) | `TBD` |
 | [`Week 69`](#Takeout-Tuesday-69) | `TBD` |
 | [`Week 70`](#Takeout-Tuesday-70) | `TBD` |
@@ -477,43 +480,47 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 
 | 🎯️ Site target 🌐️ | 🥡️ Can be taken out 🗄️ | ✳️ TRDLF Score ✴️ | #️⃣️ Number of takeouts *️⃣️ |
 |---|---|---|---|
-| **Twitter** | `✅️ Yes` | `4` **/** `6` | `6` |
-| **X** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **Discord** | `✅️ Yes` | `5` **/** `6` | `3` |
-| **Reddit** | `✅️ Yes` | `3` **/** `6` | `3` |
-| **Quora** | `❌️ No` | `0` **/** `6` | `1` |
-| **Tumblr** | `✅️ Yes` | `5` **/** `6` | `1` |
-| **ProtonMail** | `✅️ Yes` | `5` **/** `6` | `1` |
-| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `45` `(as of 2024, Tuesday, September 3rd)` |
-| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~3404 (as of 2024, Tuesday, September 3rd)` [`[1]`](#Note1) |
-| **Instagram** | `✅️ Yes` | `4` **/** `6` | `1` |
-| **Facebook** | `✅️ Yes` | `?` **/** `6` | `1` |
-| **Google Account** | `✅️ Yes` | `4` **/** `6` | `1` |
-| **Google Play Books** | `✅️ Yes` | `?` **/** `6` | `1` |
-| **Google Hangouts** | `✅️ Yes` | `?` **/** `6` | `1` |
-| **Google Play Games Services** | `✅️ Yes` | `?` **/** `6` | `1` |
-| **Google Profile** | `✅️ Yes` | `?` **/** `6` | `1` | `1` |
-| **Google Account Profile** | `✅️ Yes` | `?` **/** `6` | `1` |
-| **Google Play Movies & TV** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Android device configuration service** | `✅️ Yes` | `?` **/** `6` | `1` |
+| **Bandcamp** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **BitBucket** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **Change.org** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **Codeberg** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **Discord** | `✅️ Yes` | `5` **/** `6` | `3` |
+| **Ditty.it** | `❌️ No` | `?` **/** `6` | `0` |
+| **Facebook** | `✅️ Yes` | `?` **/** `6` | `1` |
+| **GitHub** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **GitLab** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **Google Account** | `✅️ Yes` | `4` **/** `6` | `1` |
+| **Google Account Profile** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Google Chrome** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Google Cloud Services** | `❌️ No` | `?` **/** `6` | `1` |
 | **Google Contacts** | `❌️ No` | `?` **/** `6` | `1` |
+| **Google Hangouts** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Google Play Store** | `❌️ No` | `?` **/** `6` | `1` |
-| **ProtonPass** | `✅️ Yes` | `?` **/** `6` | `1` |
+| **Google Play Books** | `✅️ Yes` | `?` **/** `6` | `1` |
+| **Google Play Games Services** | `✅️ Yes` | `?` **/** `6` | `1` |
+| **Google Play Movies & TV** | `✅️ Yes` | `?` **/** `6` | `1` |
+| **Google Profile** | `✅️ Yes` | `?` **/** `6` | `1` | `1` |
+| **Instagram** | `✅️ Yes` | `4` **/** `6` | `1` |
 | **Internet Archive** | `❌️ No` | `?` **/** `6` | `1` |
-| **Wayback Machine** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **Bandcamp** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **GitHub** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **YouTube** | `❓️ Unknown` | `?` **/** `6` | `~12` |
-| **GitLab** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **BitBucket** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **Launchpad** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `46` `(as of 2024, Tuesday, September 10th)` |
+| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~3579 (as of 2024, Tuesday, September 10th)` [`[1]`](#Note1) |
+| **ProtonMail** | `✅️ Yes` | `5` **/** `6` | `1` |
+| **ProtonPass** | `✅️ Yes` | `?` **/** `6` | `1` |
+| **Quora** | `❌️ No` | `0` **/** `6` | `1` |
+| **Reddit** | `✅️ Yes` | `3` **/** `6` | `3` |
 | **SourceForge** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **Ditty.it** | `❌️ No` | `?` **/** `6` | `0` |
-| ***Overall total*** | `19` **/** `33` | `41` **/** `198` | _~3,541 data takeouts_ |
+| **Tumblr** | `✅️ Yes` | `5` **/** `6` | `1` |
+| **Twitter** | `✅️ Yes` | `4` **/** `6` | `6` |
+| **Ubuntu One** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **Wayback Machine** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **X** | `❓️ Unknown` | `?` **/** `6` | `0` |
+| **YouTube** | `❓️ Unknown` | `?` **/** `6` | `~12` |
+| ***Overall total*** | `19` **/** `37` | `41` **/** `222` | _~3,717 data takeouts_ |
 | 🎯️ Site target 🌐️ | 🥡️ Can be taken out 🗄️ | ✳️ TRDLF Score ✴️ | #️⃣️ Number of takeouts *️⃣️ |
 
-**Last updated:** `2024, Tuesday, September 3rd`
+**Last updated:** `2024, Tuesday, September 10th`
 
 ##### Note1
 
@@ -576,6 +583,8 @@ Here are some of the images from my data takeouts.
 | [`Ditty.it`](/Graphics/Data-takeout/Websites/Ditty-it/) | 🔜️ Incomplete/coming soon |
 | [`BitBucket`](/Graphics/Data-takeout/Websites/BitBucket/) | 🔜️ Incomplete/coming soon |
 | [`Launchpad`](/Graphics/Data-takeout/Websites/Launchpad/) | 🔜️ Incomplete/coming soon |
+| [`Change.org`](/Graphics/Data-takeout/Websites/ChangeOrg/) | 🔜️ Incomplete/coming soon |
+| [`Ubuntu One`](/Graphics/Data-takeout/Websites/Ubuntu-One/) | 🔜️ Incomplete/coming soon |
 
 </details> <!-- End of Data takeout image table !-->
 
@@ -1472,8 +1481,12 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2024, Tuesday, September 10th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again this week. Todays takeout was less significant than last week, I did go through some posts, but did not make any new posts. This was also the fourteenth week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. In the past week, I have joined Change.org. I have not yet looked into the data takeout process for this site.`
+- **Backup size:**
+- - **Compressed:** `72,682,596 bytes (72.682 megabytes)`
+- - **Uncompressed:** `80.0 megabytes` _(Ubuntu won't let me see the size in bytes here)_
+- - **Takeout time:** `~19 seconds` _(excluding download/download time)_
 
 </details> <!-- End of TT67 !-->
 
@@ -2258,8 +2271,6 @@ _End of section._
 
 </details> <!-- End of TT132 !-->
 
-<!--
-
 ---
 
 ### [Takeout Tuesday 133](#Takeout-Tuesday-133)
@@ -2270,7 +2281,7 @@ _End of section._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT133 !-- >
+</details> <!-- End of TT133 !-->
 
 ---
 
@@ -2282,7 +2293,9 @@ _End of section._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT134 !-- >
+</details> <!-- End of TT134 !-->
+
+<!--
 
 ---
 
@@ -2527,12 +2540,12 @@ _End of Extras section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `66 (2024, Tuesday, September 3rd at 04:44 pm PST)`
-- **Line count (including blank lines and compiler line):** `4,444`
-- **Word count:** `027,722`
-- **Character count (including spaces):** `189,812`
-- **Character count (excluding spaces):** `161,258`
-- **Size (in bytes):** `190,369`
+- **File version:** `67 (2024, Tuesday, September 10th at 03:23 pm PST)`
+- **Line count (including blank lines and compiler line):** `4,503`
+- **Word count:** `028,157`
+- **Character count (including spaces):** `182,983`
+- **Character count (excluding spaces):** `163,835`
+- **Size (in bytes):** `193,466`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4381,6 +4394,52 @@ _End of Extras section._
 - [ ] No other changes in version 66
 
 </details> <!-- End of file history: V66 !-->
+
+---
+
+## [Version 67 (2024, Tuesday, September 10th at 03:23 pm PST)](#Version-67-2024-Tuesday-September-10th-at-03-23-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data._
+
+> Changes:
+
+- [x] Updated the `Data takeout images` section
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 67
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - - - [x] Reorganized the list into A-Z order
+- - - - [x] Added support for Ubuntu One, Codeberg, Launchpad, and Change.org
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 67` subsection
+- - - [x] Added (uncommented) blank entries for Takeout Tuesday 133 and 134
+- [x] Added the `See also` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 67
+- [x] Updated the `Considerations` section
+- [ ] No other changes in version 67
+
+</details> <!-- End of file history: V67 !-->
+
+---
+
+<!-- TODO:FILE HISTORY SECTION
+After each release, remove the `open` attribute from the previous version, and
+add it to the newest release. Do this every week (every Tuesday, when the
+file is updated)  !-->
+
+***End of file history section***
+
+</details> <!-- End of file history section !-->
 
 ---
 
