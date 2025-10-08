@@ -323,6 +323,10 @@ Add images for each service
 | [`Takeout Tuesday 240`](#Takeout-Tuesday-240) | Weekly timeline |
 | [`Takeout Tuesday 241`](#Takeout-Tuesday-241) | Weekly timeline |
 | [`Takeout Tuesday 242`](#Takeout-Tuesday-242) | Weekly timeline |
+| [`Takeout Tuesday 243`](#Takeout-Tuesday-243) | Weekly timeline |
+| [`Takeout Tuesday 244`](#Takeout-Tuesday-244) | Weekly timeline |
+| [`Takeout Tuesday 245`](#Takeout-Tuesday-245) | Weekly timeline |
+| [`Takeout Tuesday 246`](#Takeout-Tuesday-246) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`Extras`](#Extras) | Body/Info |
 | [`Stars that need to align for a Google backup`](#Stars-that-need-to-align-for-a-Google-backup) | Body/Info |
@@ -452,11 +456,12 @@ Add images for each service
 | [`Version 120 (2025, Tuesday, September 16th at 08:13 pm PST)`](#Version-120-2025-Tuesday-September-16th-at-08-13-pm-PST) | File history |
 | [`Version 121 (2025, Tuesday, September 23rd at 07:54 pm PST)`](#Version-121-2025-Tuesday-September-23rd-at-07-54-pm-PST) | File history |
 | [`Version 122 (2025, Tuesday, September 30th at 06:29 pm PST)`](#Version-122-2025-Tuesday-September-30th-at-06-29-pm-PST) | File history |
+| [`Version 123 (2025, Tuesday, October 7th at 08:39 pm PST)`](#Version-123-2025-Tuesday-October-7th-at-08-39-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 | Name | Category/section |
 
-**Last updated:** `2025, Tuesday, September 30th`
+**Last updated:** `2025, Tuesday, October 7th`
 
 </details> <!-- End of ToC !-->
 
@@ -622,8 +627,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 119`](#Takeout-Tuesday-119) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 120`](#Takeout-Tuesday-120) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 121`](#Takeout-Tuesday-121) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 122`](#Takeout-Tuesday-122) | `TBD` |
-| [`Week 123`](#Takeout-Tuesday-123) | `TBD` |
+| [`Week 122`](#Takeout-Tuesday-122) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
+| [`Week 123`](#Takeout-Tuesday-123) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 124`](#Takeout-Tuesday-124) | `TBD` |
 | [`Week 125`](#Takeout-Tuesday-125) | `TBD` |
 | [`Week 126`](#Takeout-Tuesday-126) | `TBD` |
@@ -745,9 +750,11 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 242`](#Takeout-Tuesday-242) | `TBD` |
 | [`Week 243`](#Takeout-Tuesday-243) | `TBD` |
 | [`Week 244`](#Takeout-Tuesday-244) | `TBD` |
+| [`Week 245`](#Takeout-Tuesday-245) | `TBD` |
+| [`Week 246`](#Takeout-Tuesday-246) | `TBD` |
 | 🗓️ Week | Target 🎯️ |
 
-**Last updated:** `2025, Tuesday, September 30th`
+**Last updated:** `2025, Tuesday, October 7th`
 
 </details> <!-- End of Takeout target summary table !-->
 
@@ -783,8 +790,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **Instagram** | `✅️ Yes` | `4` **/** `6` | `1` |
 | **Internet Archive** | `❌️ No` | `?` **/** `6` | `1` |
 | **Launchpad** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `102` `(as of 2025, Tuesday, September 30th)` |
-| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~13304 (as of 2025, Tuesday, September 30th)` [`[1]`](#Note1) |
+| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `103` `(as of 2025, Tuesday, October 7th)` |
+| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~13479 (as of 2025, Tuesday, October 7th)` [`[1]`](#Note1) |
 | **ProtonMail** | `✅️ Yes` | `5` **/** `6` | `1` |
 | **ProtonPass** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Quora** | `❌️ No` | `0` **/** `6` | `1` |
@@ -796,10 +803,10 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **Wayback Machine** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **𝕏** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **YouTube** | `❓️ Unknown` | `?` **/** `6` | `~12` |
-| ***Overall total*** | `19` **/** `37` | `41` **/** `222` | _~13,397 data takeouts_ |
+| ***Overall total*** | `19` **/** `37` | `41` **/** `222` | _~13,573 data takeouts_ |
 | 🎯️ Site target 🌐️ | 🥡️ Can be taken out 🗄️ | ✳️ TRDLF Score ✴️ | #️⃣️ Number of takeouts *️⃣️ |
 
-**Last updated:** `2025, Tuesday, September 30th`
+**Last updated:** `2025, Tuesday, October 7th`
 
 <!-- TODO Add to list:
 OpenStreetMap
@@ -3028,8 +3035,23 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2025, Tuesday, October 7th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again this week. I was mlore active on Mastodon this week, going through over 100 posts, and making 2 source posts, but no boost posts. This was also the seventieth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. I browsed about the same amount of posts this week.`
+- **Backup size:**
+- - **Compressed:** `177,756,599 bytes (177.756 megabytes)`
+- - **Uncompressed:** `190.4 megabytes` _(Ubuntu won't let me see the size in bytes here)_
+- - **Takeout time:** `~52 seconds` _(excluding download process/download time, but including page refresh/reflex time)_
+- **Backup statistics:**
+- - **Backup time:** `2025, Tuesday, October 7th at 12:36 pm PST`
+- - **Reported size:** `181 MB`
+- - **Post count:** `329`
+- - **Follows count:** `52`
+- - **List count:** `29`
+- - **Follower count:** `19`
+- - **Mute count:** `0`
+- - **Block count:** `17`
+- - **Domain block count:** `0`
+- - **Bookmark count:** `2,624`
 
 </details> <!-- End of TT123 !-->
 
@@ -4485,8 +4507,6 @@ _End of section._
 
 </details> <!-- End of TT244 !-->
 
-<!--
-
 ---
 
 ### [Takeout Tuesday 245](#Takeout-Tuesday-245)
@@ -4497,7 +4517,7 @@ _End of section._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT245 !-- >
+</details> <!-- End of TT245 !-->
 
 ---
 
@@ -4509,7 +4529,9 @@ _End of section._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT246 !-- >
+</details> <!-- End of TT246 !-->
+
+<!--
 
 ---
 
@@ -4606,6 +4628,30 @@ _End of section._
 - **Note:** `None yet`
 
 </details> <!-- End of TT254 !-- >
+
+---
+
+### [Takeout Tuesday 255](#Takeout-Tuesday-255)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2028, Tuesday, April 18th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT255 !-- >
+
+---
+
+### [Takeout Tuesday 256](#Takeout-Tuesday-256)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2028, Tuesday, April 25th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT256 !-- >
 
 !-->
 
@@ -8369,6 +8415,38 @@ _End of Extras section._
 - [ ] No other changes in version 122
 
 </details> <!-- End of file history: V122 !-->
+
+---
+
+## [Version 123 (2025, Tuesday, October 7th at 08:39 pm PST)](#Version-123-2025-Tuesday-October-7th-at-08-39-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data. Just keeping the project going, and up to date._
+
+> Changes:
+
+- [x] Updated the `Data takeout images` section
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 123
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 123` subsection
+- - - [x] Added (uncommented) blank entries for Takeout Tuesday 245 and 246
+- - - [x] Added (commented) blank entries for Takeout Tuesday 255 to 256
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 123
+- [ ] No other changes in version 123
+
+</details> <!-- End of file history: V123 !-->
 
 ---
 
