@@ -345,6 +345,8 @@ Add images for each service
 | [`Takeout Tuesday 262`](#Takeout-Tuesday-262) | Weekly timeline |
 | [`Takeout Tuesday 263`](#Takeout-Tuesday-263) | Weekly timeline |
 | [`Takeout Tuesday 264`](#Takeout-Tuesday-264) | Weekly timeline |
+| [`Takeout Tuesday 265`](#Takeout-Tuesday-265) | Weekly timeline |
+| [`Takeout Tuesday 266`](#Takeout-Tuesday-266) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`Extras`](#Extras) | Body/Info |
 | [`Stars that need to align for a Google backup`](#Stars-that-need-to-align-for-a-Google-backup) | Body/Info |
@@ -483,7 +485,8 @@ Add images for each service
 | [`Version 129 (2025, Tuesday, November 18th at 07:29 pm PST)`](#Version-129-2025-Tuesday-November-18th-at-07-29-pm-PST) | File history |
 | [`Version 130 (2025, Tuesday, November 25th at 06:27 pm PST)`](#Version-130-2025-Tuesday-November-25th-at-06-27-pm-PST) | File history |
 | [`Version 131 (2025, Tuesday, December 2nd at 07:42 pm PST)`](#Version-131-2025-Tuesday-December-2nd-at-07-42-pm-PST) | File history |
-| [`Version 132 (2025, Tuesday, December 9th at 08:59 pm PST)`](#Version-132-2025-Wednesday-December-9th-at-08-59-pm-PST) | File history |
+| [`Version 132 (2025, Tuesday, December 9th at 08:59 pm PST)`](#Version-132-2025-Tuesday-December-9th-at-08-59-pm-PST) | File history |
+| [`Version 133 (2025, Tuesday, December 16th at 06:45 pm PST)`](#Version-133-2025-Tuesday-December-16th-at-06-45-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 | Name | Category/section |
@@ -3326,7 +3329,7 @@ _End of section._
 
 - **Date:** `2025, Tuesday, December 9th`
 - **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
-- **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon this week, going through over 100 posts, and also made 3 source posts, but did not maky any boost posts. This was also the seventy-ninth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. I browsed about the same amount of posts this week compared to last week. I have been hesitant to post anything, due to how far behind I am right now.`
+- **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon this week, going through over 100 posts, and also making 3 source posts, but did not maky any boost posts. This was also the seventy-ninth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. I browsed about the same amount of posts this week compared to last week. I have been hesitant to post anything, due to how far behind I am right now.`
 
 - **Backup size:**
 - - **Compressed:** `196.5 megabytes` _(Ubuntu won't let me see the size in bytes here)_ (switched from Ubuntu 24.04, to Ubuntu 22.02 since last update)
@@ -3353,8 +3356,24 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2025, Tuesday, December 16th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again this week. I was more active on Mastodon this week, going through over 200 posts, and also making 2 source posts (1 post didn't seem to get counted on the takeout) but I did not maky any boost posts. This was also the eightieth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. I browsed about the same amount of posts this week compared to last week. I have been hesitant to post anything, due to how far behind I am right now.`
+
+- **Backup size:**
+- - **Compressed:** `184.2 megabytes` _(Ubuntu won't let me see the size in bytes here)_ (switched from Ubuntu 24.04, to Ubuntu 22.02 since last update)
+- - **Uncompressed:** `197.7 megabytes` _(Ubuntu won't let me see the size in bytes here)_ (switched from Ubuntu 24.04, to Ubuntu 22.02 since last update)
+- - **Takeout time:** `~46 seconds` _(excluding download process/download time, but including page refresh/reflex time)_
+- **Backup statistics:**
+- - **Backup time:** `2025, Tuesday, December 16th at 04:27 pm PST`
+- - **Reported size:** `176 MB`
+- - **Post count:** `337`
+- - **Follows count:** `53`
+- - **List count:** `29`
+- - **Follower count:** `21`
+- - **Mute count:** `0`
+- - **Block count:** `17`
+- - **Domain block count:** `0`
+- - **Bookmark count:** `4,283`
 
 </details> <!-- End of TT133 !-->
 
@@ -4906,8 +4925,6 @@ _End of section._
 
 </details> <!-- End of TT262 !-->
 
-<!--
-
 ---
 
 ### [Takeout Tuesday 263](#Takeout-Tuesday-263)
@@ -4918,7 +4935,7 @@ _End of section._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT263 !-- >
+</details> <!-- End of TT263 !-->
 
 ---
 
@@ -4930,7 +4947,9 @@ _End of section._
 - **Takeout targets:** `Currently unknown`
 - **Note:** `None yet`
 
-</details> <!-- End of TT264 !-- >
+</details> <!-- End of TT264 !-->
+
+<!--
 
 ---
 
@@ -5027,6 +5046,30 @@ _End of section._
 - **Note:** `None yet`
 
 </details> <!-- End of TT272 !-- >
+
+---
+
+### [Takeout Tuesday 273](#Takeout-Tuesday-273)
+
+<details open><summary>-<p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2028, Tuesday, August 22nd`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT271 !-- >
+
+---
+
+### [Takeout Tuesday 274](#Takeout-Tuesday-274)
+
+<details open><summary>-<p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2028, Tuesday, August 29th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT274 !-- >
 
 !-->
 
@@ -5137,11 +5180,11 @@ _End of Extras section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `132 (2025, Tuesday, December 9th at 08:59 pm PST)`
-- **Line count (including blank lines and compiler line):** `9,180`
-- **Word count:** `58,794`
+- **File version:** `133 (2025, Tuesday, December 16th at 06:45 pm PST)`
+- **Line count (including blank lines and compiler line):** `9,255`
+- **Word count:** `59,329`
 - **Character count (including spaces):** `xxx,xxx`
-- **Character count (excluding spaces):** `395,831`
+- **Character count (excluding spaces):** `399,327`
 - **Size (in bytes):** `xxx,xxx`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
@@ -9113,6 +9156,38 @@ _End of Extras section._
 
 ---
 
+## [Version 133 (2025, Tuesday, December 16th at 06:44 pm PST)](#Version-133-2025-Tuesday-December-16th-at-06-45-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data. Just keeping the project going, and up to date._
+
+> Changes:
+
+- [x] Updated the `Data takeout images` section
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 133
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 133` subsection
+- - - [x] Added (uncommented) blank entries for Takeout Tuesday 265 and 266
+- - - [x] Added (commented) blank entries for Takeout Tuesday 275 to 276
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 133
+- [ ] No other changes in version 133
+
+</details> <!-- End of file history: V133 !-->
+
+---
+
 <!-- TODO:FILE HISTORY SECTION
 After each release, remove the `open` attribute from the previous version, and
 add it to the newest release. Do this every week (every Tuesday, when the
@@ -9177,3 +9252,4 @@ _End of page._
 The REAL Data Liberation Front
 Reason: the project needs more people to rep[ort the data takeout process and expeirence for more sites on a weekly basis
 !-->
+5
