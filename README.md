@@ -377,6 +377,10 @@ Add images for each service
 | [`Takeout Tuesday 294`](#Takeout-Tuesday-294) | Weekly timeline |
 | [`Takeout Tuesday 295`](#Takeout-Tuesday-295) | Weekly timeline |
 | [`Takeout Tuesday 296`](#Takeout-Tuesday-296) | Weekly timeline |
+| [`Takeout Tuesday 297`](#Takeout-Tuesday-297) | Weekly timeline |
+| [`Takeout Tuesday 298`](#Takeout-Tuesday-298) | Weekly timeline |
+| [`Takeout Tuesday 299`](#Takeout-Tuesday-299) | Weekly timeline |
+| [`Takeout Tuesday 300`](#Takeout-Tuesday-300) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`Extras`](#Extras) | Body/Info |
 | [`Stars that need to align for a Google backup`](#Stars-that-need-to-align-for-a-Google-backup) | Body/Info |
@@ -731,7 +735,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 147`](#Takeout-Tuesday-147) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 148`](#Takeout-Tuesday-148) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 149`](#Takeout-Tuesday-149) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 150`](#Takeout-Tuesday-150) | `TBD` |
+| [`Week 150`](#Takeout-Tuesday-150) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 151`](#Takeout-Tuesday-151) | `TBD` |
 | [`Week 152`](#Takeout-Tuesday-152) | `TBD` |
 | [`Week 153`](#Takeout-Tuesday-153) | `TBD` |
@@ -878,9 +882,13 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 294`](#Takeout-Tuesday-294) | `TBD` |
 | [`Week 295`](#Takeout-Tuesday-295) | `TBD` |
 | [`Week 296`](#Takeout-Tuesday-296) | `TBD` |
+| [`Week 297`](#Takeout-Tuesday-297) | `TBD` |
+| [`Week 298`](#Takeout-Tuesday-298) | `TBD` |
+| [`Week 299`](#Takeout-Tuesday-299) | `TBD` |
+| [`Week 300`](#Takeout-Tuesday-300) | `TBD` |
 | 🗓️ Week | Target 🎯️ |
 
-**Last updated:** `2026, Tuesday, April 7th`
+**Last updated:** `2026, Tuesday, April 14th`
 
 </details> <!-- End of Takeout target summary table !-->
 
@@ -916,8 +924,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **Instagram** | `✅️ Yes` | `4` **/** `6` | `1` |
 | **Internet Archive** | `❌️ No` | `?` **/** `6` | `1` |
 | **Launchpad** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `127` `(as of 2026, Tuesday, April 7th)` |
-| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~18001 (as of 2025, Tuesday, April 7th)` [`[1]`](#Note1) |
+| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `128` `(as of 2026, Tuesday, April 14th)` |
+| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~18176 (as of 2025, Tuesday, April 14th)` [`[1]`](#Note1) |
 | **ProtonMail** | `✅️ Yes` | `5` **/** `6` | `1` |
 | **ProtonPass** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Quora** | `❌️ No` | `0` **/** `6` | `1` |
@@ -929,10 +937,10 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **Wayback Machine** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **𝕏** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **YouTube** | `❓️ Unknown` | `?` **/** `6` | `~12` |
-| ***Overall total*** | `19` **/** `37` | `41` **/** `222` | _~18,218 data takeouts [possible miscount]_ |
+| ***Overall total*** | `19` **/** `37` | `41` **/** `222` | _~18,394 data takeouts [possible miscount]_ |
 | 🎯️ Site target 🌐️ | 🥡️ Can be taken out 🗄️ | ✳️ TRDLF Score ✴️ | #️⃣️ Number of takeouts *️⃣️ |
 
-**Last updated:** `2026, Tuesday, April 7th`
+**Last updated:** `2026, Tuesday, April 14th`
 
 <!-- TODO Add to list:
 OpenStreetMap
@@ -3884,8 +3892,24 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2026, Tuesday, April 7th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again this week. I was active on Mastodon, until April 3rd, when a family member died. I entered a period of mourning, and stopped using social media until 2026, April 10th, with 3 exceptions (2 posts about the death, and the following mourning period, and one data takeout, during which, I did not interact with any posts) I am still trying to find a solution to a major problem, but I didn't post about it this week, as I am still currently recovering, and it is currently on hold. This was also the ninety-eighth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on.
+
+- **Backup size:**
+- - **Compressed:** `212.4 megabytes` _(Ubuntu won't let me see the size in bytes here)_ (switched from Ubuntu 24.04, to Ubuntu 22.02 since last update)
+- - **Uncompressed:** `230.2 megabytes` _(Ubuntu won't let me see the size in bytes here)_ (switched from Ubuntu 24.04, to Ubuntu 22.02 since last update)
+- - **Takeout time:** `~73 seconds` _(excluding download process/download time, but including page refresh/reflex time)_
+- **Backup statistics:**
+- - **Backup time:** `2026, Tuesday, April 7th at 01:41 pm PST`
+- - **Reported size:** `203 MB`
+- - **Post count:** `562`
+- - **Follows count:** `107`
+- - **List count:** `29`
+- - **Follower count:** `42`
+- - **Mute count:** `1`
+- - **Block count:** `19`
+- - **Domain block count:** `1`
+- - **Bookmark count:** `8,997`
 
 </details> <!-- End of TT149 !-->
 
@@ -3896,8 +3920,24 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2026, Tuesday, April 14th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again this week. I was very inactive on Mastodon, only making 1 post (on 2026, April 14th, 4 days after the end of the mourning period) my schedule was thrown off, and it was hard to return to Mastodon. I spent a couple of hours going through posts to catch up, today was my deadline on this, due to the data takeeout. I am still trying to find a solution to a major problem, but I didn't post about it this week, as I am still currently recovering, and it is currently on hold. This was also the ninety-ninth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on.
+
+- **Backup size:**
+- - **Compressed:** `212.4 megabytes` _(Ubuntu won't let me see the size in bytes here)_ (switched from Ubuntu 24.04, to Ubuntu 22.02 since last update)
+- - **Uncompressed:** `230.3 megabytes` _(Ubuntu won't let me see the size in bytes here)_ (switched from Ubuntu 24.04, to Ubuntu 22.02 since last update)
+- - **Takeout time:** `~68 seconds` _(excluding download process/download time, but including page refresh/reflex time)_
+- **Backup statistics:**
+- - **Backup time:** `2026, Tuesday, April 14th at 05:08 pm PST`
+- - **Reported size:** `203 MB`
+- - **Post count:** `562` (one post is either missing, or not counted, it should be 563)
+- - **Follows count:** `107`
+- - **List count:** `29`
+- - **Follower count:** `39`
+- - **Mute count:** `1`
+- - **Block count:** `19`
+- - **Domain block count:** `1`
+- - **Bookmark count:** `9,231`
 
 </details> <!-- End of TT150 !-->
 
@@ -5797,6 +5837,30 @@ _End of section._
 
 </details> <!-- End of TT308 !-- >
 
+---
+
+### [Takeout Tuesday 309](#Takeout-Tuesday-309)
+
+<details open><summary>-<p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2029, Tuesday, May 1st`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT309 !-- >
+
+---
+
+### [Takeout Tuesday 310](#Takeout-Tuesday-310)
+
+<details open><summary>-<p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Date:** `2029, Tuesday, May 8th`
+- **Takeout targets:** `Currently unknown`
+- **Note:** `None yet`
+
+</details> <!-- End of TT310 !-- >
+
 !-->
 
 ---
@@ -5906,11 +5970,11 @@ _End of Extras section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `149 (2026, Tuesday, April 7th at 10:45 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,461`
-- **Word count:** `67,486`
+- **File version:** `150 (2026, Tuesday, April 14th at 11:39 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,557`
+- **Word count:** `68,320`
 - **Character count (including spaces):** `xxx,xxx`
-- **Character count (excluding spaces):** `453,981`
+- **Character count (excluding spaces):** `459,395`
 - **Size (in bytes):** `xxx,xxx`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
@@ -10341,7 +10405,7 @@ _End of Extras section._
 > Changes:
 
 - [x] Updated the `Data takeout images` section
-- [x] Updated the `Table of contents` section
+- [x] Updated the `Table of contents` section*
 - [x] Updated the `History timeline` section
 - - [x] Updated the `History overview` subsection
 - - - [x] Updated the `Target summary` sub-subsection
@@ -10362,7 +10426,7 @@ _End of Extras section._
 
 ---
 
-## [Version 149 (2026, Tuesday, April 7th at 10:45 pm PST)](#Version-149-2026-Tuesday-March-31st-at-10-45-pm-PST)
+## [Version 149 (2026, Tuesday, April 7th at 10:45 pm PST)](#Version-149-2026-Tuesday-April-7th-at-10-45-pm-PST)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
@@ -10391,6 +10455,38 @@ _End of Extras section._
 - [ ] No other changes in version 149
 
 </details> <!-- End of file history: V149 !-->
+
+---
+
+## [Version 150 (2026, Tuesday, April 14th at 11:39 pm PST)](#Version-150-2026-Tuesday-April-14th-at-11-39-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, with the usual new data. Just keeping the project going, and up to date._
+
+> Changes:
+
+- [x] Updated the `Data takeout images` section
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 150
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 150` subsection
+- - - [x] Added (uncommented) blank entries for Takeout Tuesday 299 and 300
+- - - [x] Added (commented) blank entries for Takeout Tuesday 309 to 310
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 150
+- [ ] No other changes in version 150
+
+</details> <!-- End of file history: V150 !-->
 
 ---
 
