@@ -550,13 +550,14 @@ Add images for each service
 | [`Version 151 (2026, Tuesday, April 21st at 11:04 pm PST)`](#Version-151-2026-Tuesday-April-21st-at-11-04-pm-PST) | File history |
 | [`Version 152 (2026, Tuesday, April 28th at 11:12 pm PST)`](#Version-152-2026-Tuesday-April-28th-at-11-12-pm-PST) | File history |
 | [`Version 153 (2026, Tuesday, May 5th at 08:21 pm PST)`](#Version-153-2026-Tuesday-May-5th-at-08-21-pm-PST) | File history |
-| [`Version 154 (2026, Friday, 134h at 12:10 am PST)`](#Version-154-2026-Thursday-May-14th-at-12-10-am-PST) | File history |
-| [`Version 155 (2026, Tuesday, May 19th at 08:21 pm PST)`](#Version-153-2026-Tuesday-May-21st-at-09-47-pm-PST) | File history |
+| [`Version 154 (2026, Friday, 13th at 12:10 am PST)`](#Version-154-2026-Thursday-May-14th-at-12-10-am-PST) | File history |
+| [`Version 155 (2026, Tuesday, May 19th at 10:40 pm PST)`](#Version-155-2026-Tuesday-May-19th-at-10-40-pm-PST) | File history |
+| [`Version 156 (2026, Tuesday, May 26th at 10:48 pm PST)`](#Version-156Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |-2026-Tuesday-May-26th-at-10-48-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 | Name | Category/section |
 
-**Last updated:** `2026, Tuesday, May 12th/2026, Thursday, May 14th`
+**Last updated:** `2026, Tuesday, May 26th`
 
 </details> <!-- End of ToC !-->
 
@@ -756,7 +757,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 153`](#Takeout-Tuesday-153) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 154`](#Takeout-Tuesday-154) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 155`](#Takeout-Tuesday-155) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 156`](#Takeout-Tuesday-156) | `TBD` |
+| [`Week 156`](#Takeout-Tuesday-156) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 157`](#Takeout-Tuesday-157) | `TBD` |
 | [`Week 158`](#Takeout-Tuesday-158) | `TBD` |
 | [`Week 159`](#Takeout-Tuesday-159) | `TBD` |
@@ -911,9 +912,11 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 308`](#Takeout-Tuesday-308) | `TBD` |
 | [`Week 309`](#Takeout-Tuesday-309) | `TBD` |
 | [`Week 310`](#Takeout-Tuesday-310) | `TBD` |
+| [`Week 311`](#Takeout-Tuesday-311) | `TBD` |
+| [`Week 312`](#Takeout-Tuesday-312) | `TBD` |
 | 🗓️ Week | Target 🎯️ |
 
-**Last updated:** `2026, Tuesday, May 19th`
+**Last updated:** `2026, Tuesday, May 26th`
 
 </details> <!-- End of Takeout target summary table !-->
 
@@ -4082,20 +4085,6 @@ _End of section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
-- **Date:** `2026, Tuesday, May 19th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
-
-</details> <!-- End of TT155 !-->
-
----
-
-### [Takeout Tuesday 156](#Takeout-Tuesday-156)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
-
 - **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon, making several posts, and a large amount of boosts. There were some attempts to fix the hard drive issue were made this week, responses were accepted, but did not come up, and I did not talk about it. I am still facing the issue (not as severely this week, as I have been less focused on it, although I have fouind a possible temporary workaround for accessing my external hard drives normally) I just didn't post about this week. This was also the one-hundred-fourth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on.
 
 - **Backup size:**
@@ -4113,6 +4102,35 @@ _End of section._
 - - **Block count:** `19`
 - - **Domain block count:** `1`
 - - **Bookmark count:** `10,882`
+
+</details> <!-- End of TT155 !-->
+
+---
+
+### [Takeout Tuesday 156](#Takeout-Tuesday-156)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon, making some posts, and a large amount of boosts. No attempts to fix the hard drive issue were made this week, responses were accepted, but did not come up, and I did not talk about it. I am still facing the issue (not as severely this week, as I have been less focused on it, although I have found a possible temporary workaround for accessing my external hard drives normally. This method has still not been tested) I just didn't post about this week. This was also the one-hundred-fifth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on.
+
+- **Backup size:**
+- - **Compressed:** `221.7 megabytes` _(Ubuntu won't let me see the size in bytes here)_
+- - **Uncompressed:** `240.9 megabytes` _(Ubuntu won't let me see the size in bytes here)_
+- - **Reported size:** `218 MB`
+- - **Takeout time:** `~72 seconds` _(excluding download process/download time, but including page refresh/reflex time, and a brief delay, where I didn't notice it had finished. My takeout from last week was never present under the options today.)_
+- **Backup statistics:**
+- - **Backup time:** `2026, Tuesday, May 26th at 08:14 pm PST`
+- - **Reported size:** `211 MB`
+- - **Post count:** `981` (at least one post is either missing, or not counted, it should be 982 or higher)
+- - **Follows count:** `113`
+- - **List count:** `29`
+- - **Follower count:** `49`
+- - **Mute count:** `1`
+- - **Block count:** `19`
+- - **Domain block count:** `1`
+- - **Bookmark count:** `11,104`
 
 </details> <!-- End of TT156 !-->
 
@@ -6193,11 +6211,11 @@ _End of Extras section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `155 (2026, Tuesday, May 19th at 10:40 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,940`
-- **Word count:** `71,337`
-- **Character count (including spaces):** `489,743`
-- **Character count (excluding spaces):** `414,403`
+- **File version:** `156 (2026, Tuesday, May 26th at 10:58 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,990`
+- **Word count:** `71,834`
+- **Character count (including spaces):** `492,924`
+- **Character count (excluding spaces):** `417,043`
 - **Size (in bytes):** `xxx,xxx`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
@@ -10870,6 +10888,38 @@ _End of Extras section._
 - [ ] No other changes in version 155
 
 </details> <!-- End of file history: V155 !-->
+
+---
+
+## [Version 156 (2026, Tuesday, May 26th at 10:58 pm PST)](#Version-156-2026-Tuesday-May-26th-at-10-58-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time today, although very late in the day, with the usual new data. Just keeping the project going, and up to date._
+
+> Changes:
+
+- [x] Updated the `Data takeout images` section
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 156
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 156` subsection
+- - - [x] Added (uncommented) blank entries for Takeout Tuesday 311 and 312
+- - - [x] Added (commented) blank entries for Takeout Tuesday 321 to 322
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 156
+- [ ] No other changes in version 156
+
+</details> <!-- End of file history: V156 !-->
 
 ---
 
