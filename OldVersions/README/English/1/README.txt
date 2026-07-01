@@ -395,7 +395,9 @@ Add images for each service
 | [`Takeout Tuesday 311`](#Takeout-Tuesday-311) | Weekly timeline |
 | [`Takeout Tuesday 312`](#Takeout-Tuesday-312) | Weekly timeline |
 | [`Takeout Tuesday 313`](#Takeout-Tuesday-313) | Weekly timeline |
-| [`Takeout Tuesday 314`](#Takeout-Tuesday-314 | Weekly timeline |
+| [`Takeout Tuesday 314`](#Takeout-Tuesday-314) | Weekly timeline |
+| [`Takeout Tuesday 315`](#Takeout-Tuesday-315) | Weekly timeline |
+| [`Takeout Tuesday 316`](#Takeout-Tuesday-316) | Weekly timeline |
 | [`Feeds`](#Feeds) | Body/Info |
 | [`Extras`](#Extras) | Body/Info |
 | [`Stars that need to align for a Google backup`](#Stars-that-need-to-align-for-a-Google-backup) | Body/Info |
@@ -563,6 +565,7 @@ Add images for each service
 | [`Version 158 (2026, Tuesday, June 9th at 07:45 pm PST)`](#Version-158-2026-Tuesday-June-9th-at-07-45-pm-PST) | File history |
 | [`Version 159 (2026, Wednesday, June 17th at 12:25 pm PST)`](#Version-159-2026-Wednesday-June-17th-at-12-25-pm-PST) | File history |
 | [`Version 160 (2026, Wednesday, June 24th at 09:32 pm PST)`](#Version-160-2026-Wednesday-June-25th-at-09-32-pm-PST) | File history |
+| [`Version 161 (2026, Tuesday, June 30th at 10:33 pm PST)`](#Version-161-2026-Tuesday-June-30th-at-10-33-pm-PST) | File history |
 | [`Footer`](#Footer) | Footer |
 | [`EOF`](#EOF) | Footer |
 | Name | Category/section |
@@ -772,7 +775,7 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 158`](#Takeout-Tuesday-158) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 159`](#Takeout-Tuesday-159) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 160`](#Takeout-Tuesday-160) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
-| [`Week 161`](#Takeout-Tuesday-161) | `TBD` |
+| [`Week 161`](#Takeout-Tuesday-161) | `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}*** |
 | [`Week 162`](#Takeout-Tuesday-162) | `TBD` |
 | [`Week 163`](#Takeout-Tuesday-163) | `TBD` |
 | [`Week 164`](#Takeout-Tuesday-164) | `TBD` |
@@ -928,13 +931,15 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | [`Week 314`](#Takeout-Tuesday-314) | `TBD` |
 | [`Week 315`](#Takeout-Tuesday-315) | `TBD` |
 | [`Week 316`](#Takeout-Tuesday-316) | `TBD` |
-| [`Week 316`](#Takeout-Tuesday-317) | `TBD` |
-| [`Week 316`](#Takeout-Tuesday-318) | `TBD` |
-| [`Week 316`](#Takeout-Tuesday-319) | `TBD` |
-| [`Week 316`](#Takeout-Tuesday-320) | `TBD` |
+| [`Week 317`](#Takeout-Tuesday-317) | `TBD` |
+| [`Week 318`](#Takeout-Tuesday-318) | `TBD` |
+| [`Week 319`](#Takeout-Tuesday-319) | `TBD` |
+| [`Week 320`](#Takeout-Tuesday-320) | `TBD` |
+| [`Week 321`](#Takeout-Tuesday-321) | `TBD` |
+| [`Week 322`](#Takeout-Tuesday-322) | `TBD` |
 | 🗓️ Week | Target 🎯️ |
 
-**Last updated:** `2026, Wednesday, June 24th`
+**Last updated:** `2026, Tuesday, June 30th`
 
 </details> <!-- End of Takeout target summary table !-->
 
@@ -970,8 +975,8 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **Instagram** | `✅️ Yes` | `4` **/** `6` | `1` |
 | **Internet Archive** | `❌️ No` | `?` **/** `6` | `1` |
 | **Launchpad** | `❓️ Unknown` | `?` **/** `6` | `0` |
-| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `137` `(as of 2026, Tuesday, June 16th)` |
-| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~19926 (as of 2025, Tuesday, June 23rd)` [`[1]`](#Note1) |
+| **Mastodon** | `✅️ Yes` | `5` **/** `6` | `139` `(as of 2026, Tuesday, June 30th)` |
+| **ProtonCalendar** | `✅️ Yes` | `6` **/** `6` | `~20,101 (as of 2025, Tuesday, June 30th)` [`[1]`](#Note1) |
 | **ProtonMail** | `✅️ Yes` | `5` **/** `6` | `1` |
 | **ProtonPass** | `✅️ Yes` | `?` **/** `6` | `1` |
 | **Quora** | `❌️ No` | `0` **/** `6` | `1` |
@@ -983,10 +988,10 @@ _The following is a historical timeline of every Takeout Tuesday I have done._
 | **Wayback Machine** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **𝕏** | `❓️ Unknown` | `?` **/** `6` | `0` |
 | **YouTube** | `❓️ Unknown` | `?` **/** `6` | `~12` |
-| ***Overall total*** | `19` **/** `37` | `41` **/** `222` | _~20,154 data takeouts [possible miscount]_ |
+| ***Overall total*** | `19` **/** `37` | `41` **/** `222` | _~20,331 data takeouts [possible miscount]_ |
 | 🎯️ Site target 🌐️ | 🥡️ Can be taken out 🗄️ | ✳️ TRDLF Score ✴️ | #️⃣️ Number of takeouts *️⃣️ |
 
-**Last updated:** `2026, Wednesday, June 25th`
+**Last updated:** `2026, Tuesday, June 30th`
 
 <!-- TODO Add to list:
 OpenStreetMap
@@ -4077,6 +4082,8 @@ _End of section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
+- **Date:** `2026, Tuesday, May 12th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was more active on Mastodon, making several posts, and a heavy amount of boosts. No attempts to fix the hard drive issue were made this week, responses were accepted, but did not come up. I am still facing the issue (not as severely this week, as I have been less focused on it) I just didn't post about this week. This was also the one-hundred-third second consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository, although I failed to update the repository on Tuesday, as I did a data takeout, then forgot about this repository until around 12:24 am. There are some other sites I need to try and do takeouts on.
 
 - **Backup size:**
@@ -4103,6 +4110,8 @@ _End of section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
+- **Date:** `2026, Tuesday, May 19th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon, making several posts, and a large amount of boosts. There were some attempts to fix the hard drive issue were made this week, responses were accepted, but did not come up, and I did not talk about it. I am still facing the issue (not as severely this week, as I have been less focused on it, although I have fouind a possible temporary workaround for accessing my external hard drives normally) I just didn't post about this week. This was also the one-hundred-fourth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on.
 
 - **Backup size:**
@@ -4131,6 +4140,8 @@ _End of section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
+- **Date:** `2026, Tuesday, May 26th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was less active on Mastodon, making some posts, and a large amount of boosts. No attempts to fix the hard drive issue were made this week, responses were accepted, but did not come up, and I did not talk about it. I am still facing the issue (not as severely this week, as I have been less focused on it, although I have found a possible temporary workaround for accessing my external hard drives normally. This method has still not been tested) I just didn't post about this week. This was also the one-hundred-fifth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on.
 
 - **Backup size:**
@@ -4158,6 +4169,8 @@ _End of section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
+- **Date:** `2026, Tuesday, June 2nd`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was more active on Mastodon, making some posts, and a very large amount of boosts. Boosts have now exceeded the previous record by frequency and quantity. It would be nice if there was a profile option to sort posts by whether they are a boost or not. No attempts to fix the hard drive issue were made this week, responses were accepted, but did not come up, and I did not talk about it. I am still facing the issue (not as severely this week, as I have been less focused on it, although I have found a possible temporary workaround for accessing my external hard drives normally. This method has still not been tested) I just didn't post about it this week. This was also the one-hundred-sixth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. Additionally, I exceeded 1,000 posts this week.
 
 - **Backup size:**
@@ -4185,6 +4198,8 @@ _End of section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
+- **Date:** `2026, Tuesday, June 9th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was more active on Mastodon this week, entering a schism with the European Union during the last 4 days over ChatControl, but resuming normally on Tuesday, with opposition towards Chat Control still in effect. I made some posts, and a very large amount of boosts. No attempts to fix the hard drive issue were made this week, responses were accepted, but did not come up, and I did not talk about it. I am still facing the issue (not as severely this week, as I have been less focused on it, although I have found a possible temporary workaround for accessing my external hard drives normally. This method has still not been tested) I have gone my own way, and bought a new hard drive yesterday, which I hope will solve the previous NTFS issue, it will mean starting over, and copying all data to the new ext4-formatted hard drives. I just didn't post about it this week. This was also the one-hundred-seventh consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. Additionally, I exceeded 1,100 (1.1k) posts this week. Mastodon had a big update today as well, on the day of the takeout.
 
 - **Backup size:**
@@ -4212,6 +4227,8 @@ _End of section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
+- **Date:** `2026, Tuesday, June 16th`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was more active on Mastodon this week, I made some posts, and a very large amount of boosts. Attempts to fix the hard drive issue were made this week, although it was not talked about on Mastoodon. This was also the one-hundred-eighth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. Additionally, I exceeded 1,200 (1.2k) posts this week.
 
 - **Backup size:**
@@ -4239,6 +4256,8 @@ _End of section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
+- **Date:** `2026, Tuesday, June 23rd`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
 - **Note:** `I did my weekly Mastodon takeout again this week. I was pretty active on Mastodon this week, I made some posts, and a large amount of boosts. Attempts to fix the hard drive issue were made this week, although it was not talked about on Mastodon. This was also the one-hundred-ninth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. Additionally, I exceeded 1,300 (1.3k) posts this week.
 
 - **Backup size:**
@@ -4267,8 +4286,25 @@ _End of section._
 <details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
 
 - **Date:** `2026, Tuesday, June 30th`
-- **Takeout targets:** `Currently unknown`
-- **Note:** `None yet`
+- **Takeout targets:** `Mastodon` ***{*** `Seanpm2001.techhub.social` ***}***
+- **Note:** `I did my weekly Mastodon takeout again this week. I was pretty active on Mastodon again this week, I made some posts, and a large amount of boosts. Attempts to fix the hard drive issue were made this week, although it was not talked about on Mastodon. This was also the one-hundred-tenth consecutive week in which I also uploaded takeout pictures to the Takeout Tuesdays repository. There are some other sites I need to try and do takeouts on. Additionally, I exceeded 1,400 (1.4k) posts this week, and also exceeded 1,500 (1.5k posts) this week as well.
+
+- **Backup size:**
+- - **Compressed:** `239.9 megabytes` _(Ubuntu won't let me see the size in bytes here)_
+- - **Uncompressed:** `260.4 megabytes` _(Ubuntu won't let me see the size in bytes here)_
+- - **Reported size:** `235 MB`
+- - **Takeout time:** `~72 seconds` _(excluding download process/download time, but including page refresh/reflex time, and a brief delay, where I didn't notice it had finished. My takeout from last week was never present under the options today.)_
+- **Backup statistics:**
+- - **Backup time:** `2026, Tuesday, June 30th at 06:49 pm PST`
+- - **Reported size:** `229 MB` <!-- The smaller one for reported size !-->
+- - **Post count:** `1,506` (at least one post is either missing, or not counted, it should be 1,388 or higher)
+- - **Follows count:** `126`
+- - **List count:** `29`
+- - **Follower count:** `65`
+- - **Mute count:** `1`
+- - **Block count:** `19`
+- - **Domain block count:** `1`
+- - **Bookmark count:** `12,978`
 
 </details> <!-- End of TT161 !-->
 
@@ -6409,11 +6445,11 @@ _End of Extras section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `160 (2026, Wednesday, June 24th at 09:35 pm PST)`
-- **Line count (including blank lines and compiler line):** `11,316`
-- **Word count:** `74,328`
-- **Character count (excluding spaces):** `430,731`
-- **Character count (including spaces):** `509,229`
+- **File version:** `161 (2026, Tuesday, June 30th at 10:45 pm PST)`
+- **Line count (including blank lines and compiler line):** `11,384`
+- **Word count:** `74,897`
+- **Character count (excluding spaces):** `434,149`
+- **Character count (including spaces):** `513,268`
 - **Size (in bytes):** `xxx,xxx`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
@@ -11249,6 +11285,38 @@ _End of Extras section._
 
 ---
 
+## [Version 161 (2026, Tuesday, June 30th at 10:45 pm PST)](#Version-161-2026-Tuesday-June-30th-at-10-45-pm-PST)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this entry]</b></p></summary>
+
+- **This release was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release came on time this week. Just keeping the project going, and up to date._
+
+> Changes:
+
+- [x] Updated the `Data takeout images` section
+- [x] Updated the `Table of contents` section
+- [x] Updated the `History timeline` section
+- - [x] Updated the `History overview` subsection
+- - - [x] Updated the `Target summary` sub-subsection
+- - - - - [x] Added links to 2 sections
+- - - - - [x] Filled in data for week 161
+- - - [x] Updated the `Target history` sub-subsection
+- - - - [x] Added new data for this week
+- - [x] Updated the `Weekly timeline` subsection
+- - - [x] Updated the `Takeout Tuesday 161` subsection
+- - - [x] Added (uncommented) blank entries for Takeout Tuesday 321 and 322
+- - - [x] Added (commented) blank entries for Takeout Tuesday 331 to 332
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 161
+- [ ] No other changes in version 161
+
+</details> <!-- End of file history: V161 !-->
+
+---
+
 <!-- TODO:FILE HISTORY SECTION
 After each release, remove the `open` attribute from the previous version, and
 add it to the newest release. Do this every week (every Tuesday, when the
@@ -11311,5 +11379,5 @@ _End of page._
 
 <!-- CALL TO ACTION 2025.07.15
 The REAL Data Liberation Front
-Reason: the project needs more people to rep[ort the data takeout process and expeirence for more sites on a weekly basis
+Reason: the project needs more people to report the data takeout process and experience for more sites on a weekly basis
 !-->
